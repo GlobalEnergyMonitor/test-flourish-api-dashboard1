@@ -1,0 +1,55 @@
+{
+    "16578845": {
+        "title": "What is the age breakdown of oil and gas plants?",
+        "subtitle": "Oil and gas power capacity by age and type of plants, in megawatts (W)",
+        "x_axis": "Decade",
+        "values": [
+            "Allam-Fetvedt Cycle",
+            "Combined Cycle",
+            "Gas Turbine",
+            "Integrated Solar Combined Cycle",
+            "Internal Combustion",
+            "Internal Combustion Combined Cycle",
+            "Steam Turbine",
+            "Unknown"
+        ],
+        "pop_up": null,
+        "summary": "age_text",
+        "dataset": "gas_data_age",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "16578858": {
+        "title": "How much gas and oil power has been added since 2000?",
+        "subtitle": "Operating oil and gas power capacity added by country by plant start year, in gigawatts (GW)",
+        "x_axis": "Year",
+        "values": [
+            "Added (MW)"
+        ],
+        "pop_up": ["Added (MW)"],
+        "summary": "additions_text",
+        "dataset": "gas_data_additions",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "16578852": {
+        "title": "How has gas and oil power capacity changed status recently?",
+        "subtitle": "Gas and oil power capacity by status, in megawatts (GW)",
+        "x_axis": "Year",
+        "values": [
+            "operating",
+            "mothballed",
+            "announced",
+            "pre-construction",
+            "construction",
+            "shelved"
+        ],
+        "summary": "status_text",
+        "dataset": "gas_data_status",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    }
+}
