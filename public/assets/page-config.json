@@ -2,11 +2,10 @@
     "flourish_ids": [
         "16578858",
         "16578852",
-        "16578845",
-        
+        "16578845"
 
     ],
-    "input_type": "buttons",
+    "input_type": "dropdown",
     "input_filter": "Country",
     "input_default": "Global",
     "overall_summary": true,
