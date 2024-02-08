@@ -1,12 +1,12 @@
 {
     "flourish_ids": [
-        "16644787",
-        "16644559",
-        "16647921",
-        "16645692"
+        "16578858",
+        "16578852",
+        "16578845",
+        
 
     ],
-    "input_type": "dropdown",
+    "input_type": "buttons",
     "input_filter": "Country",
     "input_default": "Global",
     "overall_summary": true,
