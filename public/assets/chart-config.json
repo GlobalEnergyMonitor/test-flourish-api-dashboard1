@@ -1,6 +1,6 @@
 {
     "16535555": {
-        "title": "WHow has coal power capacity changed status in past decade?",
+        "title": "How has coal power capacity changed status in past decade?",
         "subtitle": "Coal-fired power capacity by status each year, in megawatts (MW)",
         "x_axis": "Year",
         "values": [
@@ -8,6 +8,7 @@
         ],
         "pop_up": null,
         "dataset": "data_status",
+        "summary": "status_text",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
@@ -21,6 +22,7 @@
             "Net change", "Added", "Retired"
         ],
         "dataset": "data_change",
+        "summary": "change_text",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
@@ -41,7 +43,7 @@
      "16659337": {
         "title": "What is the age breakdown of coal plants?",
         "subtitle": "Coal-fired power capacity by age and type of coal plants, in megawatts (MW)",
-        "x_axis": "Decade",
+        "x_axis": "decade",
         "values": [
             "CFB", "IGCC", "Subcritical", "Supercritical", "Ultra-supercritical", "Unknown"
         ],
