@@ -59,7 +59,7 @@ async function getData() {
                 })
                 .then(() => {
                     document.querySelector('h1').innerHTML = markdownToHTML(config.text.title);
-                    if (config.text.intro) document.querySelector('.dashboard-intro--para').innerHTML = markdownToHTML(config.text.intro);
+                    if (config.dashboard.overall_summary) document.querySelector('.dashboard-intro--para').innerHTML = markdownToHTML(insertOverallSummary());
                     if (config.dashboard.input_type === 'dropdown') implementDropdown();
                     if (config.dashboard.input_type === 'buttons') implementFilterButtons();
                     if (config.text.footer) document.querySelector('.dashboard-footer').innerHTML = markdownToHTML(config.text.footer);
@@ -67,6 +67,9 @@ async function getData() {
                 })
                 .then(() => renderTickers())
                 .then(() => renderVisualisation())
+                .then(()=> {
+                    if (config.dashboard.extra_visualisations) addExtraVisualisations();
+                })
                 .catch((error) => {
                     console.error(error);
                 });
@@ -247,6 +250,13 @@ function renderVisualisation() {
     })
 }
 
+function insertOverallSummary() {
+    let summaryObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons'];
+    const filterKey = (typeof config.dashboard.input_filter === 'string') ? config.dashboard.input_filter : config.dashboard.input_key;
+    summaryObj = summaryObj.filter(entry => entry[filterKey] === config.dashboard.input_default)[0];
+    return summaryObj.overall_summary;
+}
+
 function insertChartSummary(id) {
     const currentGraph = config.charts[id];
     if (currentGraph.summary) {
@@ -276,9 +286,7 @@ function updateSummaries(key) {
 
 function filterSummaries(key, selected) {
     const summaryObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons'];
-    return summaryObj.filter(entry => {
-        return entry[key] === selected
-    })[0];
+    return summaryObj.filter(entry => entry[key] === selected)[0];
 }
 
 function updateOverallSummary(summaryTextObj) {
@@ -435,4 +443,20 @@ function getSelectedButton() {
 
 function markdownToHTML(string) {
     return converter.makeHtml(string).replace(/<\/?p[^>]*>/g, '');;
+}
+
+function addExtraVisualisations() {
+    const IDsToAdd = config.dashboard.extra_visualisations;
+    IDsToAdd.forEach(id => {
+        const container = document.createElement('div');
+        container.id = `vis-${id}`;
+        container.classList.add('chart-container');
+        document.querySelector('.flourish-container').appendChild(container);
+        new Flourish.Live({
+            container: `#vis-${id}`,
+            api_url: "/flourish",
+            api_key: "",
+            base_visualisation_id: id,
+        });
+    });
 }
