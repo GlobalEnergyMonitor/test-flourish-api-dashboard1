@@ -7,5 +7,6 @@
     ],
     "input_type": "dropdown",
     "input_filter": "Country",
-    "input_default": "Global"
+    "input_default": "Global",
+    "overall_summary": true
 }

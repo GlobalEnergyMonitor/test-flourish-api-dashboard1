@@ -1,7 +1,6 @@
 {
     "title": "Coal dashboard test embed",
     "footer": "All data comes from the Global Coal Plant Tracker. The data was last updated in July 2023",
-    "summary": "overall_summary",
     "dropdown_label": "Select a country or region: ",
     "no_data": "No data available for {{selected}}",
     "dropdown": [
