@@ -1,53 +1,52 @@
 {
-    "16578845": {
-        "title": "What is the age breakdown of oil and gas plants?",
-        "subtitle": "Oil and gas power capacity by age and type of plants, in megawatts (W)",
-        "x_axis": "Decade",
+    "16535555": {
+        "title": "WHow has coal power capacity changed status in past decade?",
+        "subtitle": "Coal-fired power capacity by status each year, in megawatts (MW)",
+        "x_axis": "Year",
         "values": [
-            "Allam-Fetvedt Cycle",
-            "Combined Cycle",
-            "Gas Turbine",
-            "Integrated Solar Combined Cycle",
-            "Internal Combustion",
-            "Internal Combustion Combined Cycle",
-            "Steam Turbine",
-            "Unknown"
+            "operating", "construction", "permitted", "pre-permit", "announced", "mothballed", "shelved", "cancelled", "retired"
         ],
         "pop_up": null,
-        "summary": "age_text",
-        "dataset": "gas_data_age",
+        "dataset": "data_status",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
-    "16578858": {
-        "title": "How much gas and oil power has been added since 2000?",
-        "subtitle": "Operating oil and gas power capacity added by country by plant start year, in gigawatts (GW)",
+       
+    "16487492": {
+        "title": "How much coal power capacity has been added and retired each year since 2000?",
+        "subtitle": "Coal-fired power capacity added and retired each year, in megawatts (MW)",
         "x_axis": "Year",
         "values": [
-            "Added (MW)"
+            "Net change", "Added", "Retired"
         ],
-        "pop_up": ["Added (MW)"],
-        "summary": "additions_text",
-        "dataset": "gas_data_additions",
+        "dataset": "data_change",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
-    "16578852": {
-        "title": "How has gas and oil power capacity changed status recently?",
-        "subtitle": "Gas and oil power capacity by status, in megawatts (GW)",
+
+     "16533187": {
+        "title": "How has coal power capacity changed since 2000?",
+        "subtitle": "Operating coal-fired power capacity by country, in gigawatts (GW)",
         "x_axis": "Year",
+        "values": "Capacity",
+        "pop_up": null,
+        "summary": null,
+        "dataset": "data_cumulative",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+     "16659337": {
+        "title": "What is the age breakdown of coal plants?",
+        "subtitle": "Coal-fired power capacity by age and type of coal plants, in megawatts (MW)",
+        "x_axis": "Decade",
         "values": [
-            "operating",
-            "mothballed",
-            "announced",
-            "pre-construction",
-            "construction",
-            "shelved"
+            "CFB", "IGCC", "Subcritical", "Supercritical", "Ultra-supercritical", "Unknown"
         ],
-        "summary": "status_text",
-        "dataset": "gas_data_status",
+        "pop_up": null,
+        "dataset": "data_age",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
