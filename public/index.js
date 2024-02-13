@@ -67,6 +67,9 @@ async function getData() {
                 })
                 .then(() => renderTickers())
                 .then(() => renderVisualisation())
+                .then(()=> {
+                    if (config.dashboard.extra_visualisations) addExtraVisualisations();
+                })
                 .catch((error) => {
                     console.error(error);
                 });
@@ -440,4 +443,20 @@ function getSelectedButton() {
 
 function markdownToHTML(string) {
     return converter.makeHtml(string).replace(/<\/?p[^>]*>/g, '');;
+}
+
+function addExtraVisualisations() {
+    const IDsToAdd = config.dashboard.extra_visualisations;
+    IDsToAdd.forEach(id => {
+        const container = document.createElement('div');
+        container.id = `vis-${id}`;
+        container.classList.add('chart-container');
+        document.querySelector('.flourish-container').appendChild(container);
+        new Flourish.Live({
+            container: `#vis-${id}`,
+            api_url: "/flourish",
+            api_key: "",
+            base_visualisation_id: id,
+        });
+    });
 }

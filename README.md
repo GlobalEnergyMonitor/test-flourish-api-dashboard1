@@ -41,7 +41,8 @@ Pushing your changes to the main branch on github should trigger an automatic re
         }
     }],
     "ticker_text_font-size": "", // optional - font size for the text in the ticker (not the number)
-    "ticker_data": "" // references the datset to feed the tickers, expected to live at `public/assets/data`. Without `.json` suffix
+    "ticker_data": "", // references the datset to feed the tickers, expected to live at `public/assets/data`. Without `.json` suffix
+    "extra_visualisations": [] // array of IDs for extra visualisations which dont get updated with other interaction
 }
 ```
 
@@ -98,7 +99,8 @@ Pushing your changes to the main branch on github should trigger an automatic re
             "font-weight": "bold",
             "font-size": "3.5rem"
         }
-    }]
+    }],
+    "extra_visualisations": ["15745513", "14662890"]
 }
 ```
 
@@ -317,3 +319,14 @@ PORT=8080
 * run `npm start`
 * open your browser and navigate to http://localhost:8080/
 
+# To embed as iframe
+* Navigate to WP page and insert HTML code block
+* Copy the below into the code block:
+    ```
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.9/iframeResizer.min.js"></script>
+    <iframe id="ID-OF-IFRAME" width="100%" src="LINK-TO-HEROKU-PAGE frameborder="0"></iframe>
+    <script>
+        iFrameResize({ checkOrigin: false }, '#ID-OF-IFRAME')
+    </script>
+    ```
+* That _should_ work 🤞 

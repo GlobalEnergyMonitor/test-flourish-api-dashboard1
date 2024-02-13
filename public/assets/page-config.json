@@ -8,5 +8,6 @@
     "input_type": "dropdown",
     "input_filter": "Country",
     "input_default": "Global",
-    "overall_summary": true
+    "overall_summary": true,
+    "extra_visualisations": ["15745513"]
 }
