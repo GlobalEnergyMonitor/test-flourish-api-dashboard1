@@ -249,7 +249,8 @@ function renderVisualisation() {
 
 function insertOverallSummary() {
     let summaryObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons'];
-    summaryObj = summaryObj.filter(entry => entry[config.dashboard.input_filter] === config.dashboard.input_default)[0];
+    const filterKey = (typeof config.dashboard.input_filter === 'string') ? config.dashboard.input_filter : config.dashboard.input_key;
+    summaryObj = summaryObj.filter(entry => entry[filterKey] === config.dashboard.input_default)[0];
     return summaryObj.overall_summary;
 }
 
