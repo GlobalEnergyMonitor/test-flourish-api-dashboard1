@@ -5,6 +5,7 @@
         "16533187", 
         "16659337"
     ],
+    "overall_summary": true,
     "input_type": "dropdown",
     "input_filter": "Country",
     "input_default": "Global"
