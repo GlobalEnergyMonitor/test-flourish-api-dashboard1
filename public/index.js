@@ -325,33 +325,44 @@ function updateGraphSummaries(key, summaryTextObj) {
 
 function implentGraph(id) {
     graphs[id] = {};
-    graphs[id].opts = {
-        template: "@flourish/line-bar-pie",
-        version: 25,
-        container: `#chart-${id}`,
-        api_url: "/flourish",
-        api_key: "", //filled in server side
-        base_visualisation_id: id,
-        bindings: {
+
+    fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
+    .then((response) => response.json())
+    .then((options) => {
+        graphs[id].opts = {
+            ...options,
+            // template: "@flourish/line-bar-pie",
+            // version: 25,
+            container: `#chart-${id}`,
+            api_url: "/flourish",
+            api_key: "", //filled in server side
+            base_visualisation_id: id,
+            bindings: {
+                ...options.bindings,
+                data: {
+                    ...options.bindings.data,
+                    label: config.charts[id].x_axis, // this seems to be the X axis
+                    value: config.charts[id].values, // this is the actual bar
+                }
+            },
             data: {
-                label: config.charts[id].x_axis, // this seems to be the X axis
-                value: config.charts[id].values, // this is the actual bar
+                ...options.data,
+                data: initialData(id),
+            },
+            state: {
+                ...options.state,
+                layout: {
+                    title: config.charts[id].title.replace('{{country}}', ''),
+                    subtitle: config.charts[id].subtitle,
+                }
             }
-        },
-        data: {
-            data: initialData(id),
-        },
-        state: {
-            layout: {
-                title: config.charts[id].title.replace('{{country}}', ''),
-                subtitle: config.charts[id].subtitle,
-            }
+        };
+        if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
+        if (config.charts[id].filterable) {
+            graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
         }
-    };
-    if (config.charts[id].filterable) {
-        graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
-    }
-    graphs[id].flourish = new Flourish.Live(graphs[id].opts);
+        graphs[id].flourish = new Flourish.Live(graphs[id].opts);
+    });
 }
 
 function updateGraphs(key) {
