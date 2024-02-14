@@ -11,6 +11,23 @@ body {
     text-align: left;
 }
 
+.vis-container {
+    position: relative;
+    padding-top: 1rem;
+}
+
+.vis-container::before {
+    content: "";
+    background: #969696;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    width: 50%;
+    right: 0;
+    margin-left: 25%;
+  }
+
 .tickers-container {
     display: flex;
     flex-wrap: wrap;
