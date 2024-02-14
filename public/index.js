@@ -48,13 +48,11 @@ async function getData() {
                         if (config.dashboard.tickers) {
                             if (i < jsonObjects.length - 2) {
                                 config.datasets[config.dashboard.flourish_ids[i]] = obj;
-                            }
-                            else {
+                            } else {
                                 if (obj.template && obj.template === '@flourish/number-ticker') config.datasets.ticker.flourish_template = obj;
                                 else config.datasets.ticker.data = obj;
                             }
-                        }
-                        else config.datasets[config.dashboard.flourish_ids[i]] = obj;
+                        } else config.datasets[config.dashboard.flourish_ids[i]] = obj;
                     })
                 })
                 .then(() => {
@@ -67,7 +65,7 @@ async function getData() {
                 })
                 .then(() => renderTickers())
                 .then(() => renderVisualisation())
-                .then(()=> {
+                .then(() => {
                     if (config.dashboard.extra_visualisations) addExtraVisualisations();
                 })
                 .catch((error) => {
@@ -86,10 +84,10 @@ function implementDropdown() {
 
     if (!config.text.dropdown) throw new Error('page-config specifies input of dropdown but text-config does not match')
 
-    let dropdownData = (typeof config.dashboard.input_filter === 'string') ? 
-        config.text.dropdown.map(entry => entry[config.dashboard.input_filter])
-        : config.dashboard.input_filter;
-    
+    let dropdownData = (typeof config.dashboard.input_filter === 'string') ?
+        config.text.dropdown.map(entry => entry[config.dashboard.input_filter]) :
+        config.dashboard.input_filter;
+
     dropdownData.forEach(input => {
         const opt = document.createElement('option');
         opt.value = formatName(input);
@@ -124,9 +122,9 @@ function implementFilterButtons() {
 
     if (!config.text.buttons) throw new Error('page-config specifies input of buttons but text-config does not match')
 
-    let buttonData = (typeof config.dashboard.input_filter === 'string') ? 
-        config.text.buttons.map(entry => entry[config.dashboard.input_filter])
-        : config.dashboard.input_filter;
+    let buttonData = (typeof config.dashboard.input_filter === 'string') ?
+        config.text.buttons.map(entry => entry[config.dashboard.input_filter]) :
+        config.dashboard.input_filter;
 
     buttonData.forEach((button, i) => {
         const btnContainer = document.createElement('div');
@@ -172,10 +170,12 @@ function renderTickers() {
         document.querySelector('.dashboard-intro').appendChild(container);
         const initialData = initialTickerData()[0];
 
-        const { state } = config.datasets.ticker.flourish_template;
+        const {
+            state
+        } = config.datasets.ticker.flourish_template;
         if (config.dashboard["ticker_text_font-size"]) {
             const tickerTextSplit = config.dashboard["ticker_text_font-size"]
-            .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g); // grab text size from config and split into size and unit needed in flourish:
+                .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g); // grab text size from config and split into size and unit needed in flourish:
             state.font_size = tickerTextSplit[0];
             state.font_unit = tickerTextSplit[1]
         }
@@ -191,13 +191,15 @@ function renderTickers() {
         };
 
         config.dashboard.tickers.forEach((entry, i) => {
-            const { id } = entry;
+            const {
+                id
+            } = entry;
             const container = document.createElement('div');
             container.id = id;
             container.classList.add('ticker-container');
             document.querySelector('.tickers-container').appendChild(container);
 
-            const tickerConf = config.dashboard.tickers.filter( entry => entry.id === id)[0];
+            const tickerConf = config.dashboard.tickers.filter(entry => entry.id === id)[0];
             tickers[id] = {};
             tickers[id].options = {
                 ...options,
@@ -219,22 +221,25 @@ function renderTickers() {
 
 function updateTickers() {
     config.dashboard.tickers.forEach((entry, i) => {
-        const { id } = entry;
+        const {
+            id
+        } = entry;
         const data = filterTickerData(getSelectedText());
         if (data[id]) {
             tickers[id].options.state.custom_template = formatWithTickerStyling(data, id)
             tickers[id].flourish.update(tickers[id].options)
             document.querySelector(`#${id} iframe`).style.opacity = 1;
-        }
-        else document.querySelector(`#${id} iframe`).style.opacity = 0.3;
+        } else document.querySelector(`#${id} iframe`).style.opacity = 0.3;
     });
 }
 
 function formatWithTickerStyling(data, id) {
     const text = data[id];
-    const { style } = config.dashboard.tickers.filter( entry => entry.id === id)[0];
+    const {
+        style
+    } = config.dashboard.tickers.filter(entry => entry.id === id)[0];
     const colourOverride = data[`${id}_color`];
-    const styledSpan =  Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="') + '">';
+    const styledSpan = Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="') + '">';
     return text.replace('<span>', styledSpan);
 }
 
@@ -254,6 +259,7 @@ function insertOverallSummary() {
     let summaryObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons'];
     const filterKey = (typeof config.dashboard.input_filter === 'string') ? config.dashboard.input_filter : config.dashboard.input_key;
     summaryObj = summaryObj.filter(entry => entry[filterKey] === config.dashboard.input_default)[0];
+    if (!summaryObj.overall_summary) throw new Error('Overall Summary set to true but no text values given');
     return summaryObj.overall_summary;
 }
 
@@ -266,12 +272,13 @@ function insertChartSummary(id) {
 
         if (typeof currentGraph.filter_by === 'string') {
             summaryTextObj = filterSummaries(currentGraph.filter_by, config.charts[id].initial_state);
-        }
-        else {
+        } else {
             summaryTextObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons'].filter(entry => entry[config.dashboard.input_key] === config.dashboard.input_default)[0];
         }
-        summary.innerHTML = markdownToHTML(summaryTextObj[currentGraph.summary]);
-        document.querySelector(`#chart-${id}`).appendChild(summary);
+        if (summaryTextObj[currentGraph.summary]) {
+            summary.innerHTML = markdownToHTML(summaryTextObj[currentGraph.summary]);
+            document.querySelector(`#chart-${id}`).appendChild(summary);
+        }
     }
 }
 
@@ -290,7 +297,7 @@ function filterSummaries(key, selected) {
 }
 
 function updateOverallSummary(summaryTextObj) {
-    document.querySelector('.dashboard-intro--para').innerHTML = 
+    document.querySelector('.dashboard-intro--para').innerHTML =
         markdownToHTML((summaryTextObj.overall_summary) ? summaryTextObj.overall_summary : '');
 }
 
@@ -302,15 +309,14 @@ function updateGraphSummaries(key, summaryTextObj) {
             let filteredData;
             if (typeof config.charts[id].filter_by === 'string') {
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
-            }
-            else {
+            } else {
                 if (getUnformattedInputName(key) === 'All') filteredData = config.datasets[id];
                 else filteredData = filterDataOnColumnName(key, id);
             }
             const summary = document.querySelector(`#chart-${id} .chart-summary`);
             if (summary) {
                 summary.innerHTML = markdownToHTML(
-                    (filteredData.length <= 0 || !summaryTextObj[currentGraph.summary]) ? 
+                    (filteredData.length <= 0 || !summaryTextObj[currentGraph.summary]) ?
                     config.text.no_data.replace("{{selected}}", summaryTextObj[config.dashboard.input_filter]) : summaryTextObj[currentGraph.summary]);
             }
         }
@@ -357,8 +363,7 @@ function updateGraphs(key) {
             let filteredData;
             if (typeof config.charts[id].filter_by === 'string') {
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
-            }
-            else {
+            } else {
                 if (getUnformattedInputName(key) === 'All') filteredData = config.datasets[id];
                 else filteredData = filterDataOnColumnName(key, id);
             }
@@ -395,8 +400,7 @@ function initialData(id) {
     if (config.charts[id].filterable) {
         if (typeof config.charts[id].filter_by === 'string') {
             data = config.datasets[id].filter(entry => entry[config.dashboard.input_filter] === config.charts[id].initial_state);
-        }
-        else {
+        } else {
             const defaultFilter = config.dashboard.input_default;
             if (defaultFilter === "All") return data;
             else return filterDataOnColumnName(formatName(defaultFilter), id)
@@ -429,8 +433,7 @@ function getSelectedText() {
     if (config.dashboard.input_type === 'dropdown') {
         const dropdown = document.querySelector('select');
         return dropdown[dropdown.selectedIndex].text;
-    }
-    else if (config.dashboard.input_type === 'buttons') {
+    } else if (config.dashboard.input_type === 'buttons') {
         const selectedButton = document.querySelector('input[name="filter"]:checked');
         return selectedButton.text;
     }
