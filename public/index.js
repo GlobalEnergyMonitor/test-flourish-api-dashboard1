@@ -358,9 +358,9 @@ function implentGraph(id) {
             }
         };
         if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
-        if (config.charts[id].filterable) {
-            graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
-        }
+        // if (config.charts[id].filterable) {
+        //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
+        // }
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
     });
 }
