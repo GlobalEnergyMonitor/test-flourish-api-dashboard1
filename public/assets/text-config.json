@@ -1,872 +1,656 @@
 {
-    "title": "Coal dashboard test embed",
-    "footer": "All data comes from the Global Coal Plant Tracker. The data was last updated in July 2023",
-    "dropdown_label": "Select a country or region: ",
-    "no_data": "No data available for {{selected}}",
-    "dropdown": [
-  {
-    "Country": "Global",
-    "overall_summary": "**Global** summary sentence about coal",
-    "cumulative_text": "*Global* coal capacity has almost doubled from 2000",
-    "change_text": "Need to develop a sentence for *Global*",
-    "status_text": "There is *2,095,041 MW* of operating coal power capacity and *557,465 MW* under development globally",
-    "age_text": "The largest share of coal power globally is *10-19 years old*"
-  },
-  {
-    "Country": "Albania",
-    "overall_summary": "**Albania** summary sentence about coal",
-    "cumulative_text": "*Albania* has no operating coal power",
-    "change_text": "*Albania* neither added or retired any coal",
-    "status_text": "Albania has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Albania does not have any operating coal power"
-  },
-  {
-    "Country": "Argentina",
-    "overall_summary": "**Argentina** summary sentence about coal",
-    "cumulative_text": "*Argentina* increased its coal power capacity from 2000",
-    "change_text": "*Argentina* has not retired any coal since 2000",
-    "status_text": "Argentina has 495 MW of operating coal power capacity and 120 MW under development",
-    "age_text": "The largest share of coal power in Argentina is 40-49 years old"
-  },
-  {
-    "Country": "Australia",
-    "overall_summary": "**Australia** summary sentence about coal",
-    "cumulative_text": "*Australia* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Australia",
-    "status_text": "Australia has 22,437 MW of operating coal power capacity and 1,000 MW under development",
-    "age_text": "The largest share of coal power in Australia is 30-39 years old"
-  },
-  {
-    "Country": "Austria",
-    "overall_summary": "**Austria** summary sentence about coal",
-    "cumulative_text": "*Austria* retired all its coal power capacity from 2000",
-    "change_text": "*Austria* has not added any coal since 2000",
-    "status_text": "Austria has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Austria does not have any operating coal power"
-  },
-  {
-    "Country": "Bangladesh",
-    "overall_summary": "**Bangladesh** summary sentence about coal",
-    "cumulative_text": "*Bangladesh* added coal power capacity since 2000",
-    "change_text": "*Bangladesh* has not retired any coal since 2000",
-    "status_text": "Bangladesh has 2,855 MW of operating coal power capacity and 11,840 MW under development",
-    "age_text": "The largest share of coal power in Bangladesh is 0-9 years old"
-  },
-  {
-    "Country": "Belarus",
-    "overall_summary": "**Belarus** summary sentence about coal",
-    "cumulative_text": "*Belarus* has no operating coal power",
-    "change_text": "*Belarus* neither added or retired any coal",
-    "status_text": "Belarus has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Belarus does not have any operating coal power"
-  },
-  {
-    "Country": "Belgium",
-    "overall_summary": "**Belgium** summary sentence about coal",
-    "cumulative_text": "*Belgium* retired all its coal power capacity from 2000",
-    "change_text": "*Belgium* has not added any coal since 2000",
-    "status_text": "Belgium has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Belgium does not have any operating coal power"
-  },
-  {
-    "Country": "Bosnia and Herzegovina",
-    "overall_summary": "**Bosnia and Herzegovina** summary sentence about coal",
-    "cumulative_text": "*Bosnia and Herzegovina* increased its coal power capacity from 2000",
-    "change_text": "*Bosnia and Herzegovina* has not retired any coal since 2000",
-    "status_text": "Bosnia and Herzegovina has 2,090 MW of operating coal power capacity and 1,450 MW under development",
-    "age_text": "The largest share of coal power in Bosnia and Herzegovina is 40-49 years old"
-  },
-  {
-    "Country": "Botswana",
-    "overall_summary": "**Botswana** summary sentence about coal",
-    "cumulative_text": "*Botswana* more than doubled its coal power capacity from 2000",
-    "change_text": "*Botswana* has not retired any coal since 2000",
-    "status_text": "Botswana has 732 MW of operating coal power capacity and 750 MW under development",
-    "age_text": "The largest share of coal power in Botswana is 0-9 years old"
-  },
-  {
-    "Country": "Brazil",
-    "overall_summary": "**Brazil** summary sentence about coal",
-    "cumulative_text": "*Brazil* more than doubled its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Brazil",
-    "status_text": "Brazil has 3,177 MW of operating coal power capacity and 1,326 MW under development",
-    "age_text": "The largest share of coal power in Brazil is 10-19 years old"
-  },
-  {
-    "Country": "Brunei",
-    "overall_summary": "**Brunei** summary sentence about coal",
-    "cumulative_text": "*Brunei* added coal power capacity since 2000",
-    "change_text": "*Brunei* has not retired any coal since 2000",
-    "status_text": "Brunei has 220 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Brunei is 0-9 years old"
-  },
-  {
-    "Country": "Bulgaria",
-    "overall_summary": "**Bulgaria** summary sentence about coal",
-    "cumulative_text": "*Bulgaria* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Bulgaria",
-    "status_text": "Bulgaria has 4,569 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Bulgaria is 50+ years old"
-  },
-  {
-    "Country": "Cambodia",
-    "overall_summary": "**Cambodia** summary sentence about coal",
-    "cumulative_text": "*Cambodia* added coal power capacity since 2000",
-    "change_text": "*Cambodia* has not retired any coal since 2000",
-    "status_text": "Cambodia has 1,405 MW of operating coal power capacity and 1,015 MW under development",
-    "age_text": "The largest share of coal power in Cambodia is 0-9 years old"
-  },
-  {
-    "Country": "Canada",
-    "overall_summary": "**Canada** summary sentence about coal",
-    "cumulative_text": "*Canada* more than halved its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Canada",
-    "status_text": "Canada has 4,727 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Canada is 30-39 years old"
-  },
-  {
-    "Country": "Chile",
-    "overall_summary": "**Chile** summary sentence about coal",
-    "cumulative_text": "*Chile* more than doubled its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Chile",
-    "status_text": "Chile has 4,323 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Chile is 10-19 years old"
-  },
-  {
-    "Country": "China",
-    "overall_summary": "**China** summary sentence about coal",
-    "cumulative_text": "*China* more than doubled its coal power capacity from 2000",
-    "change_text": "*China* added more coal than it retired every year since 2000",
-    "status_text": "China has 1,108,908 MW of operating coal power capacity and 391,700 MW under development",
-    "age_text": "The largest share of coal power in China is 10-19 years old"
-  },
-  {
-    "Country": "Colombia",
-    "overall_summary": "**Colombia** summary sentence about coal",
-    "cumulative_text": "*Colombia* increased its coal power capacity from 2000",
-    "change_text": "*Colombia* has not retired any coal since 2000",
-    "status_text": "Colombia has 1,646 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Colombia is 0-9 years old"
-  },
-  {
-    "Country": "C�te d'Ivoire",
-    "overall_summary": "**C�te d'Ivoire** summary sentence about coal",
-    "cumulative_text": "*C�te d'Ivoire* has no operating coal power",
-    "change_text": "*C�te d'Ivoire* neither added or retired any coal",
-    "status_text": "C�te d'Ivoire has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "C�te d'Ivoire does not have any operating coal power"
-  },
-  {
-    "Country": "Croatia",
-    "overall_summary": "**Croatia** summary sentence about coal",
-    "cumulative_text": "*Croatia* has the same coal power capacity as it did in 2000",
-    "change_text": "*Croatia* has not retired any coal since 2000",
-    "status_text": "Croatia has 217 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Croatia is 20-29 years old"
-  },
-  {
-    "Country": "Czech Republic",
-    "overall_summary": "**Czech Republic** summary sentence about coal",
-    "cumulative_text": "*Czech Republic* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Czech Republic",
-    "status_text": "Czech Republic has 7,445 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Czech Republic is 40-49 years old"
-  },
-  {
-    "Country": "Denmark",
-    "overall_summary": "**Denmark** summary sentence about coal",
-    "cumulative_text": "*Denmark* more than halved its coal power capacity from 2000",
-    "change_text": "*Denmark* has not added any coal since 2000",
-    "status_text": "Denmark has 1,560 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Denmark is 30-39 years old"
-  },
-  {
-    "Country": "Djibouti",
-    "overall_summary": "**Djibouti** summary sentence about coal",
-    "cumulative_text": "*Djibouti* has no operating coal power",
-    "change_text": "*Djibouti* neither added or retired any coal",
-    "status_text": "Djibouti has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Djibouti does not have any operating coal power"
-  },
-  {
-    "Country": "Dominican Republic",
-    "overall_summary": "**Dominican Republic** summary sentence about coal",
-    "cumulative_text": "*Dominican Republic* more than doubled its coal power capacity from 2000",
-    "change_text": "*Dominican Republic* has not retired any coal since 2000",
-    "status_text": "Dominican Republic has 1,064 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Dominican Republic is 0-9 years old"
-  },
-  {
-    "Country": "DR Congo",
-    "overall_summary": "**DR Congo** summary sentence about coal",
-    "cumulative_text": "*DR Congo* has no operating coal power",
-    "change_text": "*DR Congo* neither added or retired any coal",
-    "status_text": "DR Congo has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "DR Congo does not have any operating coal power"
-  },
-  {
-    "Country": "Egypt",
-    "overall_summary": "**Egypt** summary sentence about coal",
-    "cumulative_text": "*Egypt* has no operating coal power",
-    "change_text": "*Egypt* neither added or retired any coal",
-    "status_text": "Egypt has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Egypt does not have any operating coal power"
-  },
-  {
-    "Country": "El Salvador",
-    "overall_summary": "**El Salvador** summary sentence about coal",
-    "cumulative_text": "*El Salvador* has no operating coal power",
-    "change_text": "*El Salvador* neither added or retired any coal",
-    "status_text": "El Salvador has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "El Salvador does not have any operating coal power"
-  },
-  {
-    "Country": "Eswatini",
-    "overall_summary": "**Eswatini** summary sentence about coal",
-    "cumulative_text": "*Eswatini* has no operating coal power",
-    "change_text": "*Eswatini* neither added or retired any coal",
-    "status_text": "Eswatini has 0 MW of operating coal power capacity and 300 MW under development",
-    "age_text": "Eswatini does not have any operating coal power"
-  },
-  {
-    "Country": "Ethiopia",
-    "overall_summary": "**Ethiopia** summary sentence about coal",
-    "cumulative_text": "*Ethiopia* has no operating coal power",
-    "change_text": "*Ethiopia* neither added or retired any coal",
-    "status_text": "Ethiopia has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Ethiopia does not have any operating coal power"
-  },
-  {
-    "Country": "Finland",
-    "overall_summary": "**Finland** summary sentence about coal",
-    "cumulative_text": "*Finland* more than halved its coal power capacity from 2000",
-    "change_text": "*Finland* has not added any coal since 2000",
-    "status_text": "Finland has 1,468 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Finland is 20-29 years old"
-  },
-  {
-    "Country": "France",
-    "overall_summary": "**France** summary sentence about coal",
-    "cumulative_text": "*France* more than halved its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for France",
-    "status_text": "France has 2,507 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in France is 40-49 years old"
-  },
-  {
-    "Country": "Georgia",
-    "overall_summary": "**Georgia** summary sentence about coal",
-    "cumulative_text": "*Georgia* has no operating coal power",
-    "change_text": "*Georgia* neither added or retired any coal",
-    "status_text": "Georgia has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Georgia does not have any operating coal power"
-  },
-  {
-    "Country": "Germany",
-    "overall_summary": "**Germany** summary sentence about coal",
-    "cumulative_text": "*Germany* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Germany",
-    "status_text": "Germany has 40,362 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Germany is 30-39 years old"
-  },
-  {
-    "Country": "Ghana",
-    "overall_summary": "**Ghana** summary sentence about coal",
-    "cumulative_text": "*Ghana* has no operating coal power",
-    "change_text": "*Ghana* neither added or retired any coal",
-    "status_text": "Ghana has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Ghana does not have any operating coal power"
-  },
-  {
-    "Country": "Greece",
-    "overall_summary": "**Greece** summary sentence about coal",
-    "cumulative_text": "*Greece* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Greece",
-    "status_text": "Greece has 2,885 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Greece is 30-39 years old"
-  },
-  {
-    "Country": "Guadeloupe",
-    "overall_summary": "**Guadeloupe** summary sentence about coal",
-    "cumulative_text": "*Guadeloupe* has the same coal power capacity as it did in 2000",
-    "change_text": "Need to develop a sentence for Guadeloupe",
-    "status_text": "Guadeloupe has 64 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Guadeloupe is 20-29 years old"
-  },
-  {
-    "Country": "Guatemala",
-    "overall_summary": "**Guatemala** summary sentence about coal",
-    "cumulative_text": "*Guatemala* more than doubled its coal power capacity from 2000",
-    "change_text": "*Guatemala* has not retired any coal since 2000",
-    "status_text": "Guatemala has 439 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Guatemala is 0-9 years old"
-  },
-  {
-    "Country": "Guinea",
-    "overall_summary": "**Guinea** summary sentence about coal",
-    "cumulative_text": "*Guinea* has no operating coal power",
-    "change_text": "*Guinea* neither added or retired any coal",
-    "status_text": "Guinea has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Guinea does not have any operating coal power"
-  },
-  {
-    "Country": "Honduras",
-    "overall_summary": "**Honduras** summary sentence about coal",
-    "cumulative_text": "*Honduras* added coal power capacity since 2000",
-    "change_text": "*Honduras* has not retired any coal since 2000",
-    "status_text": "Honduras has 105 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Honduras is 0-9 years old"
-  },
-  {
-    "Country": "Hong Kong",
-    "overall_summary": "**Hong Kong** summary sentence about coal",
-    "cumulative_text": "*Hong Kong* reduced its coal power capacity from 2000",
-    "change_text": "*Hong Kong* has not added any coal since 2000",
-    "status_text": "Hong Kong has 6,110 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Hong Kong is 30-39 years old"
-  },
-  {
-    "Country": "Hungary",
-    "overall_summary": "**Hungary** summary sentence about coal",
-    "cumulative_text": "*Hungary* reduced its coal power capacity from 2000",
-    "change_text": "*Hungary* has not added any coal since 2000",
-    "status_text": "Hungary has 944 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Hungary is 50+ years old"
-  },
-  {
-    "Country": "India",
-    "overall_summary": "**India** summary sentence about coal",
-    "cumulative_text": "*India* more than doubled its coal power capacity from 2000",
-    "change_text": "*India* added more coal than it retired every year since 2000",
-    "status_text": "India has 235,853 MW of operating coal power capacity and 67,573 MW under development",
-    "age_text": "The largest share of coal power in India is 0-9 years old"
-  },
-  {
-    "Country": "Indonesia",
-    "overall_summary": "**Indonesia** summary sentence about coal",
-    "cumulative_text": "*Indonesia* more than doubled its coal power capacity from 2000",
-    "change_text": "*Indonesia* has not retired any coal since 2000",
-    "status_text": "Indonesia has 45,347 MW of operating coal power capacity and 19,249 MW under development",
-    "age_text": "The largest share of coal power in Indonesia is 0-9 years old"
-  },
-  {
-    "Country": "Iran",
-    "overall_summary": "**Iran** summary sentence about coal",
-    "cumulative_text": "*Iran* has no operating coal power",
-    "change_text": "*Iran* neither added or retired any coal",
-    "status_text": "Iran has 0 MW of operating coal power capacity and 650 MW under development",
-    "age_text": "Iran does not have any operating coal power"
-  },
-  {
-    "Country": "Ireland",
-    "overall_summary": "**Ireland** summary sentence about coal",
-    "cumulative_text": "*Ireland* has the same coal power capacity as it did in 2000",
-    "change_text": "*Ireland* neither added or retired any coal",
-    "status_text": "Ireland has 915 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Ireland is 30-39 years old"
-  },
-  {
-    "Country": "Israel",
-    "overall_summary": "**Israel** summary sentence about coal",
-    "cumulative_text": "*Israel* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Israel",
-    "status_text": "Israel has 4,325 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Israel is 20-29 years old"
-  },
-  {
-    "Country": "Italy",
-    "overall_summary": "**Italy** summary sentence about coal",
-    "cumulative_text": "*Italy* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Italy",
-    "status_text": "Italy has 6,166 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Italy is 30-39 years old"
-  },
-  {
-    "Country": "Jamaica",
-    "overall_summary": "**Jamaica** summary sentence about coal",
-    "cumulative_text": "*Jamaica* has no operating coal power",
-    "change_text": "*Jamaica* neither added or retired any coal",
-    "status_text": "Jamaica has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Jamaica does not have any operating coal power"
-  },
-  {
-    "Country": "Japan",
-    "overall_summary": "**Japan** summary sentence about coal",
-    "cumulative_text": "*Japan* increased its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Japan",
-    "status_text": "Japan has 54,629 MW of operating coal power capacity and 1,150 MW under development",
-    "age_text": "The largest share of coal power in Japan is 20-29 years old"
-  },
-  {
-    "Country": "Kazakhstan",
-    "overall_summary": "**Kazakhstan** summary sentence about coal",
-    "cumulative_text": "*Kazakhstan* increased its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Kazakhstan",
-    "status_text": "Kazakhstan has 13,043 MW of operating coal power capacity and 4,875 MW under development",
-    "age_text": "The largest share of coal power in Kazakhstan is 40-49 years old"
-  },
-  {
-    "Country": "Kenya",
-    "overall_summary": "**Kenya** summary sentence about coal",
-    "cumulative_text": "*Kenya* has no operating coal power",
-    "change_text": "*Kenya* neither added or retired any coal",
-    "status_text": "Kenya has 0 MW of operating coal power capacity and 64 MW under development",
-    "age_text": "Kenya does not have any operating coal power"
-  },
-  {
-    "Country": "Kosovo",
-    "overall_summary": "**Kosovo** summary sentence about coal",
-    "cumulative_text": "*Kosovo* reduced its coal power capacity from 2000",
-    "change_text": "*Kosovo* has not added any coal since 2000",
-    "status_text": "Kosovo has 1,290 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Kosovo is 40-49 years old"
-  },
-  {
-    "Country": "Kyrgyzstan",
-    "overall_summary": "**Kyrgyzstan** summary sentence about coal",
-    "cumulative_text": "*Kyrgyzstan* increased its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Kyrgyzstan",
-    "status_text": "Kyrgyzstan has 812 MW of operating coal power capacity and 600 MW under development",
-    "age_text": "The largest share of coal power in Kyrgyzstan is 0-9 years old"
-  },
-  {
-    "Country": "Laos",
-    "overall_summary": "**Laos** summary sentence about coal",
-    "cumulative_text": "*Laos* added coal power capacity since 2000",
-    "change_text": "*Laos* has not retired any coal since 2000",
-    "status_text": "Laos has 1,878 MW of operating coal power capacity and 7,036 MW under development",
-    "age_text": "The largest share of coal power in Laos is 0-9 years old"
-  },
-  {
-    "Country": "Latvia",
-    "overall_summary": "**Latvia** summary sentence about coal",
-    "cumulative_text": "*Latvia* has no operating coal power",
-    "change_text": "*Latvia* neither added or retired any coal",
-    "status_text": "Latvia has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Latvia does not have any operating coal power"
-  },
-  {
-    "Country": "Madagascar",
-    "overall_summary": "**Madagascar** summary sentence about coal",
-    "cumulative_text": "*Madagascar* added coal power capacity since 2000",
-    "change_text": "*Madagascar* has not retired any coal since 2000",
-    "status_text": "Madagascar has 120 MW of operating coal power capacity and 30 MW under development",
-    "age_text": "The largest share of coal power in Madagascar is 10-19 years old"
-  },
-  {
-    "Country": "Malawi",
-    "overall_summary": "**Malawi** summary sentence about coal",
-    "cumulative_text": "*Malawi* has no operating coal power",
-    "change_text": "*Malawi* neither added or retired any coal",
-    "status_text": "Malawi has 0 MW of operating coal power capacity and 400 MW under development",
-    "age_text": "Malawi does not have any operating coal power"
-  },
-  {
-    "Country": "Malaysia",
-    "overall_summary": "**Malaysia** summary sentence about coal",
-    "cumulative_text": "*Malaysia* more than doubled its coal power capacity from 2000",
-    "change_text": "*Malaysia* has not retired any coal since 2000",
-    "status_text": "Malaysia has 13,280 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Malaysia is 0-9 years old"
-  },
-  {
-    "Country": "Mauritius",
-    "overall_summary": "**Mauritius** summary sentence about coal",
-    "cumulative_text": "*Mauritius* more than doubled its coal power capacity from 2000",
-    "change_text": "*Mauritius* has not retired any coal since 2000",
-    "status_text": "Mauritius has 195 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Mauritius is 10-19 years old"
-  },
-  {
-    "Country": "Mexico",
-    "overall_summary": "**Mexico** summary sentence about coal",
-    "cumulative_text": "*Mexico* increased its coal power capacity from 2000",
-    "change_text": "*Mexico* has not retired any coal since 2000",
-    "status_text": "Mexico has 5,378 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Mexico is 30-39 years old"
-  },
-  {
-    "Country": "Moldova",
-    "overall_summary": "**Moldova** summary sentence about coal",
-    "cumulative_text": "*Moldova* has the same coal power capacity as it did in 2000",
-    "change_text": "*Moldova* neither added or retired any coal",
-    "status_text": "Moldova has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Moldova does not have any operating coal power"
-  },
-  {
-    "Country": "Mongolia",
-    "overall_summary": "**Mongolia** summary sentence about coal",
-    "cumulative_text": "*Mongolia* increased its coal power capacity from 2000",
-    "change_text": "*Mongolia* has not retired any coal since 2000",
-    "status_text": "Mongolia has 960 MW of operating coal power capacity and 1,850 MW under development",
-    "age_text": "The largest share of coal power in Mongolia is 40-49 years old"
-  },
-  {
-    "Country": "Montenegro",
-    "overall_summary": "**Montenegro** summary sentence about coal",
-    "cumulative_text": "*Montenegro* has the same coal power capacity as it did in 2000",
-    "change_text": "*Montenegro* neither added or retired any coal",
-    "status_text": "Montenegro has 225 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Montenegro is 40-49 years old"
-  },
-  {
-    "Country": "Morocco",
-    "overall_summary": "**Morocco** summary sentence about coal",
-    "cumulative_text": "*Morocco* more than doubled its coal power capacity from 2000",
-    "change_text": "*Morocco* has not retired any coal since 2000",
-    "status_text": "Morocco has 4,257 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Morocco is 0-9 years old"
-  },
-  {
-    "Country": "Mozambique",
-    "overall_summary": "**Mozambique** summary sentence about coal",
-    "cumulative_text": "*Mozambique* has no operating coal power",
-    "change_text": "*Mozambique* neither added or retired any coal",
-    "status_text": "Mozambique has 0 MW of operating coal power capacity and 1,200 MW under development",
-    "age_text": "Mozambique does not have any operating coal power"
-  },
-  {
-    "Country": "Myanmar",
-    "overall_summary": "**Myanmar** summary sentence about coal",
-    "cumulative_text": "*Myanmar* added coal power capacity since 2000",
-    "change_text": "*Myanmar* has not retired any coal since 2000",
-    "status_text": "Myanmar has 190 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Myanmar is 10-19 years old"
-  },
-  {
-    "Country": "Namibia",
-    "overall_summary": "**Namibia** summary sentence about coal",
-    "cumulative_text": "*Namibia* has the same coal power capacity as it did in 2000",
-    "change_text": "*Namibia* neither added or retired any coal",
-    "status_text": "Namibia has 120 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Namibia is 50+ years old"
-  },
-  {
-    "Country": "Netherlands",
-    "overall_summary": "**Netherlands** summary sentence about coal",
-    "cumulative_text": "*Netherlands* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Netherlands",
-    "status_text": "Netherlands has 3,500 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Netherlands is 0-9 years old"
-  },
-  {
-    "Country": "New Zealand",
-    "overall_summary": "**New Zealand** summary sentence about coal",
-    "cumulative_text": "*New Zealand* NA",
-    "change_text": "*New Zealand* has not added any coal since 2000",
-    "status_text": "New Zealand has 500 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in New Zealand is 40-49 years old"
-  },
-  {
-    "Country": "Niger",
-    "overall_summary": "**Niger** summary sentence about coal",
-    "cumulative_text": "*Niger* has no operating coal power",
-    "change_text": "*Niger* neither added or retired any coal",
-    "status_text": "Niger has 0 MW of operating coal power capacity and 200 MW under development",
-    "age_text": "Niger does not have any operating coal power"
-  },
-  {
-    "Country": "Nigeria",
-    "overall_summary": "**Nigeria** summary sentence about coal",
-    "cumulative_text": "*Nigeria* has no operating coal power",
-    "change_text": "*Nigeria* neither added or retired any coal",
-    "status_text": "Nigeria has 284 MW of operating coal power capacity and 600 MW under development",
-    "age_text": "The largest share of coal power in Nigeria is 20-29 years old"
-  },
-  {
-    "Country": "North Korea",
-    "overall_summary": "**North Korea** summary sentence about coal",
-    "cumulative_text": "*North Korea* increased its coal power capacity from 2000",
-    "change_text": "*North Korea* has not retired any coal since 2000",
-    "status_text": "North Korea has 3,250 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in North Korea is 40-49 years old"
-  },
-  {
-    "Country": "North Macedonia",
-    "overall_summary": "**North Macedonia** summary sentence about coal",
-    "cumulative_text": "*North Macedonia* has the same coal power capacity as it did in 2000",
-    "change_text": "*North Macedonia* neither added or retired any coal",
-    "status_text": "North Macedonia has 824 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in North Macedonia is 30-39 years old"
-  },
-  {
-    "Country": "Oman",
-    "overall_summary": "**Oman** summary sentence about coal",
-    "cumulative_text": "*Oman* has no operating coal power",
-    "change_text": "*Oman* neither added or retired any coal",
-    "status_text": "Oman has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Oman does not have any operating coal power"
-  },
-  {
-    "Country": "Pakistan",
-    "overall_summary": "**Pakistan** summary sentence about coal",
-    "cumulative_text": "*Pakistan* more than doubled its coal power capacity from 2000",
-    "change_text": "*Pakistan* has not retired any coal since 2000",
-    "status_text": "Pakistan has 7,638 MW of operating coal power capacity and 4,742 MW under development",
-    "age_text": "The largest share of coal power in Pakistan is 0-9 years old"
-  },
-  {
-    "Country": "Panama",
-    "overall_summary": "**Panama** summary sentence about coal",
-    "cumulative_text": "*Panama* added coal power capacity since 2000",
-    "change_text": "Need to develop a sentence for Panama",
-    "status_text": "Panama has 306 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Panama is 0-9 years old"
-  },
-  {
-    "Country": "Papua New Guinea",
-    "overall_summary": "**Papua New Guinea** summary sentence about coal",
-    "cumulative_text": "*Papua New Guinea* has no operating coal power",
-    "change_text": "*Papua New Guinea* neither added or retired any coal",
-    "status_text": "Papua New Guinea has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Papua New Guinea does not have any operating coal power"
-  },
-  {
-    "Country": "Peru",
-    "overall_summary": "**Peru** summary sentence about coal",
-    "cumulative_text": "*Peru* retired all its coal power capacity from 2000",
-    "change_text": "*Peru* has not added any coal since 2000",
-    "status_text": "Peru has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Peru does not have any operating coal power"
-  },
-  {
-    "Country": "Philippines",
-    "overall_summary": "**Philippines** summary sentence about coal",
-    "cumulative_text": "*Philippines* more than doubled its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Philippines",
-    "status_text": "Philippines has 12,082 MW of operating coal power capacity and 3,125 MW under development",
-    "age_text": "The largest share of coal power in Philippines is 0-9 years old"
-  },
-  {
-    "Country": "Poland",
-    "overall_summary": "**Poland** summary sentence about coal",
-    "cumulative_text": "*Poland* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Poland",
-    "status_text": "Poland has 29,130 MW of operating coal power capacity and 100 MW under development",
-    "age_text": "The largest share of coal power in Poland is 40-49 years old"
-  },
-  {
-    "Country": "Portugal",
-    "overall_summary": "**Portugal** summary sentence about coal",
-    "cumulative_text": "*Portugal* retired all its coal power capacity from 2000",
-    "change_text": "*Portugal* has not added any coal since 2000",
-    "status_text": "Portugal has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Portugal does not have any operating coal power"
-  },
-  {
-    "Country": "Romania",
-    "overall_summary": "**Romania** summary sentence about coal",
-    "cumulative_text": "*Romania* more than halved its coal power capacity from 2000",
-    "change_text": "*Romania* has not added any coal since 2000",
-    "status_text": "Romania has 2,295 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Romania is 40-49 years old"
-  },
-  {
-    "Country": "Russia",
-    "overall_summary": "**Russia** summary sentence about coal",
-    "cumulative_text": "*Russia* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Russia",
-    "status_text": "Russia has 38,277 MW of operating coal power capacity and 3,823 MW under development",
-    "age_text": "The largest share of coal power in Russia is 50+ years old"
-  },
-  {
-    "Country": "Senegal",
-    "overall_summary": "**Senegal** summary sentence about coal",
-    "cumulative_text": "*Senegal* added coal power capacity since 2000",
-    "change_text": "*Senegal* has not retired any coal since 2000",
-    "status_text": "Senegal has 155 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Senegal is 0-9 years old"
-  },
-  {
-    "Country": "Serbia",
-    "overall_summary": "**Serbia** summary sentence about coal",
-    "cumulative_text": "*Serbia* has the same coal power capacity as it did in 2000",
-    "change_text": "*Serbia* neither added or retired any coal",
-    "status_text": "Serbia has 4,435 MW of operating coal power capacity and 350 MW under development",
-    "age_text": "The largest share of coal power in Serbia is 40-49 years old"
-  },
-  {
-    "Country": "Slovakia",
-    "overall_summary": "**Slovakia** summary sentence about coal",
-    "cumulative_text": "*Slovakia* more than halved its coal power capacity from 2000",
-    "change_text": "*Slovakia* has not added any coal since 2000",
-    "status_text": "Slovakia has 769 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Slovakia is 50+ years old"
-  },
-  {
-    "Country": "Slovenia",
-    "overall_summary": "**Slovenia** summary sentence about coal",
-    "cumulative_text": "*Slovenia* increased its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Slovenia",
-    "status_text": "Slovenia has 1,069 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Slovenia is 0-9 years old"
-  },
-  {
-    "Country": "South Africa",
-    "overall_summary": "**South Africa** summary sentence about coal",
-    "cumulative_text": "*South Africa* increased its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for South Africa",
-    "status_text": "South Africa has 43,624 MW of operating coal power capacity and 4,555 MW under development",
-    "age_text": "The largest share of coal power in South Africa is 30-39 years old"
-  },
-  {
-    "Country": "South Korea",
-    "overall_summary": "**South Korea** summary sentence about coal",
-    "cumulative_text": "*South Korea* more than doubled its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for South Korea",
-    "status_text": "South Korea has 39,094 MW of operating coal power capacity and 3,140 MW under development",
-    "age_text": "The largest share of coal power in South Korea is 0-9 years old"
-  },
-  {
-    "Country": "Spain",
-    "overall_summary": "**Spain** summary sentence about coal",
-    "cumulative_text": "*Spain* more than halved its coal power capacity from 2000",
-    "change_text": "*Spain* has not added any coal since 2000",
-    "status_text": "Spain has 2,946 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Spain is 30-39 years old"
-  },
-  {
-    "Country": "Sri Lanka",
-    "overall_summary": "**Sri Lanka** summary sentence about coal",
-    "cumulative_text": "*Sri Lanka* added coal power capacity since 2000",
-    "change_text": "*Sri Lanka* has not retired any coal since 2000",
-    "status_text": "Sri Lanka has 900 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Sri Lanka is 0-9 years old"
-  },
-  {
-    "Country": "Sudan",
-    "overall_summary": "**Sudan** summary sentence about coal",
-    "cumulative_text": "*Sudan* has no operating coal power",
-    "change_text": "*Sudan* neither added or retired any coal",
-    "status_text": "Sudan has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Sudan does not have any operating coal power"
-  },
-  {
-    "Country": "Sweden",
-    "overall_summary": "**Sweden** summary sentence about coal",
-    "cumulative_text": "*Sweden* retired all its coal power capacity from 2000",
-    "change_text": "*Sweden* has not added any coal since 2000",
-    "status_text": "Sweden has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Sweden does not have any operating coal power"
-  },
-  {
-    "Country": "Syria",
-    "overall_summary": "**Syria** summary sentence about coal",
-    "cumulative_text": "*Syria* added coal power capacity since 2000",
-    "change_text": "*Syria* has not retired any coal since 2000",
-    "status_text": "Syria has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Syria does not have any operating coal power"
-  },
-  {
-    "Country": "Taiwan",
-    "overall_summary": "**Taiwan** summary sentence about coal",
-    "cumulative_text": "*Taiwan* increased its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Taiwan",
-    "status_text": "Taiwan has 19,244 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Taiwan is 20-29 years old"
-  },
-  {
-    "Country": "Tajikistan",
-    "overall_summary": "**Tajikistan** summary sentence about coal",
-    "cumulative_text": "*Tajikistan* added coal power capacity since 2000",
-    "change_text": "*Tajikistan* has not retired any coal since 2000",
-    "status_text": "Tajikistan has 400 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Tajikistan is 0-9 years old"
-  },
-  {
-    "Country": "Tanzania",
-    "overall_summary": "**Tanzania** summary sentence about coal",
-    "cumulative_text": "*Tanzania* has no operating coal power",
-    "change_text": "*Tanzania* neither added or retired any coal",
-    "status_text": "Tanzania has 0 MW of operating coal power capacity and 800 MW under development",
-    "age_text": "Tanzania does not have any operating coal power"
-  },
-  {
-    "Country": "Thailand",
-    "overall_summary": "**Thailand** summary sentence about coal",
-    "cumulative_text": "*Thailand* increased its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Thailand",
-    "status_text": "Thailand has 6,138 MW of operating coal power capacity and 600 MW under development",
-    "age_text": "The largest share of coal power in Thailand is 10-19 years old"
-  },
-  {
-    "Country": "T�rkiye",
-    "overall_summary": "**T�rkiye** summary sentence about coal",
-    "cumulative_text": "*T�rkiye* more than doubled its coal power capacity from 2000",
-    "change_text": "*T�rkiye* has not retired any coal since 2000",
-    "status_text": "T�rkiye has 20,453 MW of operating coal power capacity and 5,453 MW under development",
-    "age_text": "The largest share of coal power in T�rkiye is 0-9 years old"
-  },
-  {
-    "Country": "Ukraine",
-    "overall_summary": "**Ukraine** summary sentence about coal",
-    "cumulative_text": "*Ukraine* reduced its coal power capacity from 2000",
-    "change_text": "*Ukraine* has not added any coal since 2000",
-    "status_text": "Ukraine has 7,878 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in Ukraine is 50+ years old"
-  },
-  {
-    "Country": "United Arab Emirates",
-    "overall_summary": "**United Arab Emirates** summary sentence about coal",
-    "cumulative_text": "*United Arab Emirates* has the same coal power capacity as it did in 2000",
-    "change_text": "Need to develop a sentence for United Arab Emirates",
-    "status_text": "United Arab Emirates has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "United Arab Emirates does not have any operating coal power"
-  },
-  {
-    "Country": "United Kingdom",
-    "overall_summary": "**United Kingdom** summary sentence about coal",
-    "cumulative_text": "*United Kingdom* more than halved its coal power capacity from 2000",
-    "change_text": "*United Kingdom* has not added any coal since 2000",
-    "status_text": "United Kingdom has 2,738 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "The largest share of coal power in United Kingdom is 50+ years old"
-  },
-  {
-    "Country": "United States",
-    "overall_summary": "**United States** summary sentence about coal",
-    "cumulative_text": "*United States* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for United States",
-    "status_text": "United States has 205,381 MW of operating coal power capacity and 400 MW under development",
-    "age_text": "The largest share of coal power in United States is 40-49 years old"
-  },
-  {
-    "Country": "Uzbekistan",
-    "overall_summary": "**Uzbekistan** summary sentence about coal",
-    "cumulative_text": "*Uzbekistan* reduced its coal power capacity from 2000",
-    "change_text": "Need to develop a sentence for Uzbekistan",
-    "status_text": "Uzbekistan has 2,493 MW of operating coal power capacity and 600 MW under development",
-    "age_text": "The largest share of coal power in Uzbekistan is 30-39 years old"
-  },
-  {
-    "Country": "Venezuela",
-    "overall_summary": "**Venezuela** summary sentence about coal",
-    "cumulative_text": "*Venezuela* has no operating coal power",
-    "change_text": "*Venezuela* neither added or retired any coal",
-    "status_text": "Venezuela has 0 MW of operating coal power capacity and 0 MW under development",
-    "age_text": "Venezuela does not have any operating coal power"
-  },
-  {
-    "Country": "Vietnam",
-    "overall_summary": "**Vietnam** summary sentence about coal",
-    "cumulative_text": "*Vietnam* more than doubled its coal power capacity from 2000",
-    "change_text": "*Vietnam* has not retired any coal since 2000",
-    "status_text": "Vietnam has 25,837 MW of operating coal power capacity and 9,325 MW under development",
-    "age_text": "The largest share of coal power in Vietnam is 0-9 years old"
-  },
-  {
-    "Country": "Zambia",
-    "overall_summary": "**Zambia** summary sentence about coal",
-    "cumulative_text": "*Zambia* added coal power capacity since 2000",
-    "change_text": "*Zambia* has not retired any coal since 2000",
-    "status_text": "Zambia has 330 MW of operating coal power capacity and 300 MW under development",
-    "age_text": "The largest share of coal power in Zambia is 0-9 years old"
-  },
-  {
-    "Country": "Zimbabwe",
-    "overall_summary": "**Zimbabwe** summary sentence about coal",
-    "cumulative_text": "*Zimbabwe* increased its coal power capacity from 2000",
-    "change_text": "*Zimbabwe* has not retired any coal since 2000",
-    "status_text": "Zimbabwe has 1,335 MW of operating coal power capacity and 5,175 MW under development",
-    "age_text": "The largest share of coal power in Zimbabwe is 30-39 years old"
-  }
-]
+  "title": "Global Coal Plant Tracker Dashboard - TEST",
+  "footer": "All data comes from GEM's Global Coal Plant Tracker, last updated in January 2024.",
+  "dropdown_label": "Select a country or region: ",
+  "no_data": "No data available for {{selected}}",
+  "dropdown": [
+    {
+      "Country": "Global",
+      "overall_summary": "Summary sentence about **Global** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Global** could go here",
+      "change_summary": "Sentence about additions and retirements and **Global** could go here"
+    },
+    {
+      "Country": "Albania",
+      "overall_summary": "Summary sentence about **Albania** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Albania** could go here",
+      "change_summary": "Sentence about additions and retirements and **Albania** could go here"
+    },
+    {
+      "Country": "Argentina",
+      "overall_summary": "Summary sentence about **Argentina** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Argentina** could go here",
+      "change_summary": "Sentence about additions and retirements and **Argentina** could go here"
+    },
+    {
+      "Country": "Australia",
+      "overall_summary": "Summary sentence about **Australia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Australia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Australia** could go here"
+    },
+    {
+      "Country": "Austria",
+      "overall_summary": "Summary sentence about **Austria** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Austria** could go here",
+      "change_summary": "Sentence about additions and retirements and **Austria** could go here"
+    },
+    {
+      "Country": "Bangladesh",
+      "overall_summary": "Summary sentence about **Bangladesh** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Bangladesh** could go here",
+      "change_summary": "Sentence about additions and retirements and **Bangladesh** could go here"
+    },
+    {
+      "Country": "Belarus",
+      "overall_summary": "Summary sentence about **Belarus** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Belarus** could go here",
+      "change_summary": "Sentence about additions and retirements and **Belarus** could go here"
+    },
+    {
+      "Country": "Belgium",
+      "overall_summary": "Summary sentence about **Belgium** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Belgium** could go here",
+      "change_summary": "Sentence about additions and retirements and **Belgium** could go here"
+    },
+    {
+      "Country": "Bosnia and Herzegovina",
+      "overall_summary": "Summary sentence about **Bosnia and Herzegovina** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Bosnia and Herzegovina** could go here",
+      "change_summary": "Sentence about additions and retirements and **Bosnia and Herzegovina** could go here"
+    },
+    {
+      "Country": "Botswana",
+      "overall_summary": "Summary sentence about **Botswana** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Botswana** could go here",
+      "change_summary": "Sentence about additions and retirements and **Botswana** could go here"
+    },
+    {
+      "Country": "Brazil",
+      "overall_summary": "Summary sentence about **Brazil** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Brazil** could go here",
+      "change_summary": "Sentence about additions and retirements and **Brazil** could go here"
+    },
+    {
+      "Country": "Brunei",
+      "overall_summary": "Summary sentence about **Brunei** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Brunei** could go here",
+      "change_summary": "Sentence about additions and retirements and **Brunei** could go here"
+    },
+    {
+      "Country": "Bulgaria",
+      "overall_summary": "Summary sentence about **Bulgaria** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Bulgaria** could go here",
+      "change_summary": "Sentence about additions and retirements and **Bulgaria** could go here"
+    },
+    {
+      "Country": "Cambodia",
+      "overall_summary": "Summary sentence about **Cambodia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Cambodia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Cambodia** could go here"
+    },
+    {
+      "Country": "Canada",
+      "overall_summary": "Summary sentence about **Canada** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Canada** could go here",
+      "change_summary": "Sentence about additions and retirements and **Canada** could go here"
+    },
+    {
+      "Country": "Chile",
+      "overall_summary": "Summary sentence about **Chile** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Chile** could go here",
+      "change_summary": "Sentence about additions and retirements and **Chile** could go here"
+    },
+    {
+      "Country": "China",
+      "overall_summary": "Summary sentence about **China** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **China** could go here",
+      "change_summary": "Sentence about additions and retirements and **China** could go here"
+    },
+    {
+      "Country": "Colombia",
+      "overall_summary": "Summary sentence about **Colombia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Colombia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Colombia** could go here"
+    },
+    {
+      "Country": "Croatia",
+      "overall_summary": "Summary sentence about **Croatia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Croatia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Croatia** could go here"
+    },
+    {
+      "Country": "Czech Republic",
+      "overall_summary": "Summary sentence about **Czech Republic** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Czech Republic** could go here",
+      "change_summary": "Sentence about additions and retirements and **Czech Republic** could go here"
+    },
+    {
+      "Country": "Côte d'Ivoire",
+      "overall_summary": "Summary sentence about **Côte d'Ivoire** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Côte d'Ivoire** could go here",
+      "change_summary": "Sentence about additions and retirements and **Côte d'Ivoire** could go here"
+    },
+    {
+      "Country": "DR Congo",
+      "overall_summary": "Summary sentence about **DR Congo** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **DR Congo** could go here",
+      "change_summary": "Sentence about additions and retirements and **DR Congo** could go here"
+    },
+    {
+      "Country": "Denmark",
+      "overall_summary": "Summary sentence about **Denmark** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Denmark** could go here",
+      "change_summary": "Sentence about additions and retirements and **Denmark** could go here"
+    },
+    {
+      "Country": "Djibouti",
+      "overall_summary": "Summary sentence about **Djibouti** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Djibouti** could go here",
+      "change_summary": "Sentence about additions and retirements and **Djibouti** could go here"
+    },
+    {
+      "Country": "Dominican Republic",
+      "overall_summary": "Summary sentence about **Dominican Republic** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Dominican Republic** could go here",
+      "change_summary": "Sentence about additions and retirements and **Dominican Republic** could go here"
+    },
+    {
+      "Country": "Egypt",
+      "overall_summary": "Summary sentence about **Egypt** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Egypt** could go here",
+      "change_summary": "Sentence about additions and retirements and **Egypt** could go here"
+    },
+    {
+      "Country": "El Salvador",
+      "overall_summary": "Summary sentence about **El Salvador** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **El Salvador** could go here",
+      "change_summary": "Sentence about additions and retirements and **El Salvador** could go here"
+    },
+    {
+      "Country": "Eswatini",
+      "overall_summary": "Summary sentence about **Eswatini** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Eswatini** could go here",
+      "change_summary": "Sentence about additions and retirements and **Eswatini** could go here"
+    },
+    {
+      "Country": "Ethiopia",
+      "overall_summary": "Summary sentence about **Ethiopia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Ethiopia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Ethiopia** could go here"
+    },
+    {
+      "Country": "Finland",
+      "overall_summary": "Summary sentence about **Finland** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Finland** could go here",
+      "change_summary": "Sentence about additions and retirements and **Finland** could go here"
+    },
+    {
+      "Country": "France",
+      "overall_summary": "Summary sentence about **France** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **France** could go here",
+      "change_summary": "Sentence about additions and retirements and **France** could go here"
+    },
+    {
+      "Country": "Georgia",
+      "overall_summary": "Summary sentence about **Georgia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Georgia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Georgia** could go here"
+    },
+    {
+      "Country": "Germany",
+      "overall_summary": "Summary sentence about **Germany** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Germany** could go here",
+      "change_summary": "Sentence about additions and retirements and **Germany** could go here"
+    },
+    {
+      "Country": "Ghana",
+      "overall_summary": "Summary sentence about **Ghana** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Ghana** could go here",
+      "change_summary": "Sentence about additions and retirements and **Ghana** could go here"
+    },
+    {
+      "Country": "Greece",
+      "overall_summary": "Summary sentence about **Greece** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Greece** could go here",
+      "change_summary": "Sentence about additions and retirements and **Greece** could go here"
+    },
+    {
+      "Country": "Guadeloupe",
+      "overall_summary": "Summary sentence about **Guadeloupe** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Guadeloupe** could go here",
+      "change_summary": "Sentence about additions and retirements and **Guadeloupe** could go here"
+    },
+    {
+      "Country": "Guatemala",
+      "overall_summary": "Summary sentence about **Guatemala** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Guatemala** could go here",
+      "change_summary": "Sentence about additions and retirements and **Guatemala** could go here"
+    },
+    {
+      "Country": "Guinea",
+      "overall_summary": "Summary sentence about **Guinea** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Guinea** could go here",
+      "change_summary": "Sentence about additions and retirements and **Guinea** could go here"
+    },
+    {
+      "Country": "Honduras",
+      "overall_summary": "Summary sentence about **Honduras** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Honduras** could go here",
+      "change_summary": "Sentence about additions and retirements and **Honduras** could go here"
+    },
+    {
+      "Country": "Hong Kong",
+      "overall_summary": "Summary sentence about **Hong Kong** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Hong Kong** could go here",
+      "change_summary": "Sentence about additions and retirements and **Hong Kong** could go here"
+    },
+    {
+      "Country": "Hungary",
+      "overall_summary": "Summary sentence about **Hungary** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Hungary** could go here",
+      "change_summary": "Sentence about additions and retirements and **Hungary** could go here"
+    },
+    {
+      "Country": "India",
+      "overall_summary": "Summary sentence about **India** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **India** could go here",
+      "change_summary": "Sentence about additions and retirements and **India** could go here"
+    },
+    {
+      "Country": "Indonesia",
+      "overall_summary": "Summary sentence about **Indonesia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Indonesia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Indonesia** could go here"
+    },
+    {
+      "Country": "Iran",
+      "overall_summary": "Summary sentence about **Iran** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Iran** could go here",
+      "change_summary": "Sentence about additions and retirements and **Iran** could go here"
+    },
+    {
+      "Country": "Ireland",
+      "overall_summary": "Summary sentence about **Ireland** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Ireland** could go here",
+      "change_summary": "Sentence about additions and retirements and **Ireland** could go here"
+    },
+    {
+      "Country": "Israel",
+      "overall_summary": "Summary sentence about **Israel** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Israel** could go here",
+      "change_summary": "Sentence about additions and retirements and **Israel** could go here"
+    },
+    {
+      "Country": "Italy",
+      "overall_summary": "Summary sentence about **Italy** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Italy** could go here",
+      "change_summary": "Sentence about additions and retirements and **Italy** could go here"
+    },
+    {
+      "Country": "Jamaica",
+      "overall_summary": "Summary sentence about **Jamaica** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Jamaica** could go here",
+      "change_summary": "Sentence about additions and retirements and **Jamaica** could go here"
+    },
+    {
+      "Country": "Japan",
+      "overall_summary": "Summary sentence about **Japan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Japan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Japan** could go here"
+    },
+    {
+      "Country": "Kazakhstan",
+      "overall_summary": "Summary sentence about **Kazakhstan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Kazakhstan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Kazakhstan** could go here"
+    },
+    {
+      "Country": "Kenya",
+      "overall_summary": "Summary sentence about **Kenya** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Kenya** could go here",
+      "change_summary": "Sentence about additions and retirements and **Kenya** could go here"
+    },
+    {
+      "Country": "Kosovo",
+      "overall_summary": "Summary sentence about **Kosovo** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Kosovo** could go here",
+      "change_summary": "Sentence about additions and retirements and **Kosovo** could go here"
+    },
+    {
+      "Country": "Kyrgyzstan",
+      "overall_summary": "Summary sentence about **Kyrgyzstan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Kyrgyzstan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Kyrgyzstan** could go here"
+    },
+    {
+      "Country": "Laos",
+      "overall_summary": "Summary sentence about **Laos** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Laos** could go here",
+      "change_summary": "Sentence about additions and retirements and **Laos** could go here"
+    },
+    {
+      "Country": "Latvia",
+      "overall_summary": "Summary sentence about **Latvia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Latvia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Latvia** could go here"
+    },
+    {
+      "Country": "Madagascar",
+      "overall_summary": "Summary sentence about **Madagascar** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Madagascar** could go here",
+      "change_summary": "Sentence about additions and retirements and **Madagascar** could go here"
+    },
+    {
+      "Country": "Malawi",
+      "overall_summary": "Summary sentence about **Malawi** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Malawi** could go here",
+      "change_summary": "Sentence about additions and retirements and **Malawi** could go here"
+    },
+    {
+      "Country": "Malaysia",
+      "overall_summary": "Summary sentence about **Malaysia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Malaysia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Malaysia** could go here"
+    },
+    {
+      "Country": "Mauritius",
+      "overall_summary": "Summary sentence about **Mauritius** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Mauritius** could go here",
+      "change_summary": "Sentence about additions and retirements and **Mauritius** could go here"
+    },
+    {
+      "Country": "Mexico",
+      "overall_summary": "Summary sentence about **Mexico** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Mexico** could go here",
+      "change_summary": "Sentence about additions and retirements and **Mexico** could go here"
+    },
+    {
+      "Country": "Moldova",
+      "overall_summary": "Summary sentence about **Moldova** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Moldova** could go here",
+      "change_summary": "Sentence about additions and retirements and **Moldova** could go here"
+    },
+    {
+      "Country": "Mongolia",
+      "overall_summary": "Summary sentence about **Mongolia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Mongolia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Mongolia** could go here"
+    },
+    {
+      "Country": "Montenegro",
+      "overall_summary": "Summary sentence about **Montenegro** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Montenegro** could go here",
+      "change_summary": "Sentence about additions and retirements and **Montenegro** could go here"
+    },
+    {
+      "Country": "Morocco",
+      "overall_summary": "Summary sentence about **Morocco** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Morocco** could go here",
+      "change_summary": "Sentence about additions and retirements and **Morocco** could go here"
+    },
+    {
+      "Country": "Mozambique",
+      "overall_summary": "Summary sentence about **Mozambique** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Mozambique** could go here",
+      "change_summary": "Sentence about additions and retirements and **Mozambique** could go here"
+    },
+    {
+      "Country": "Myanmar",
+      "overall_summary": "Summary sentence about **Myanmar** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Myanmar** could go here",
+      "change_summary": "Sentence about additions and retirements and **Myanmar** could go here"
+    },
+    {
+      "Country": "Namibia",
+      "overall_summary": "Summary sentence about **Namibia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Namibia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Namibia** could go here"
+    },
+    {
+      "Country": "Netherlands",
+      "overall_summary": "Summary sentence about **Netherlands** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Netherlands** could go here",
+      "change_summary": "Sentence about additions and retirements and **Netherlands** could go here"
+    },
+    {
+      "Country": "New Zealand",
+      "overall_summary": "Summary sentence about **New Zealand** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **New Zealand** could go here",
+      "change_summary": "Sentence about additions and retirements and **New Zealand** could go here"
+    },
+    {
+      "Country": "Niger",
+      "overall_summary": "Summary sentence about **Niger** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Niger** could go here",
+      "change_summary": "Sentence about additions and retirements and **Niger** could go here"
+    },
+    {
+      "Country": "Nigeria",
+      "overall_summary": "Summary sentence about **Nigeria** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Nigeria** could go here",
+      "change_summary": "Sentence about additions and retirements and **Nigeria** could go here"
+    },
+    {
+      "Country": "North Korea",
+      "overall_summary": "Summary sentence about **North Korea** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **North Korea** could go here",
+      "change_summary": "Sentence about additions and retirements and **North Korea** could go here"
+    },
+    {
+      "Country": "North Macedonia",
+      "overall_summary": "Summary sentence about **North Macedonia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **North Macedonia** could go here",
+      "change_summary": "Sentence about additions and retirements and **North Macedonia** could go here"
+    },
+    {
+      "Country": "Oman",
+      "overall_summary": "Summary sentence about **Oman** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Oman** could go here",
+      "change_summary": "Sentence about additions and retirements and **Oman** could go here"
+    },
+    {
+      "Country": "Pakistan",
+      "overall_summary": "Summary sentence about **Pakistan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Pakistan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Pakistan** could go here"
+    },
+    {
+      "Country": "Panama",
+      "overall_summary": "Summary sentence about **Panama** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Panama** could go here",
+      "change_summary": "Sentence about additions and retirements and **Panama** could go here"
+    },
+    {
+      "Country": "Papua New Guinea",
+      "overall_summary": "Summary sentence about **Papua New Guinea** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Papua New Guinea** could go here",
+      "change_summary": "Sentence about additions and retirements and **Papua New Guinea** could go here"
+    },
+    {
+      "Country": "Peru",
+      "overall_summary": "Summary sentence about **Peru** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Peru** could go here",
+      "change_summary": "Sentence about additions and retirements and **Peru** could go here"
+    },
+    {
+      "Country": "Philippines",
+      "overall_summary": "Summary sentence about **Philippines** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Philippines** could go here",
+      "change_summary": "Sentence about additions and retirements and **Philippines** could go here"
+    },
+    {
+      "Country": "Poland",
+      "overall_summary": "Summary sentence about **Poland** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Poland** could go here",
+      "change_summary": "Sentence about additions and retirements and **Poland** could go here"
+    },
+    {
+      "Country": "Portugal",
+      "overall_summary": "Summary sentence about **Portugal** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Portugal** could go here",
+      "change_summary": "Sentence about additions and retirements and **Portugal** could go here"
+    },
+    {
+      "Country": "Romania",
+      "overall_summary": "Summary sentence about **Romania** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Romania** could go here",
+      "change_summary": "Sentence about additions and retirements and **Romania** could go here"
+    },
+    {
+      "Country": "Russia",
+      "overall_summary": "Summary sentence about **Russia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Russia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Russia** could go here"
+    },
+    {
+      "Country": "Senegal",
+      "overall_summary": "Summary sentence about **Senegal** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Senegal** could go here",
+      "change_summary": "Sentence about additions and retirements and **Senegal** could go here"
+    },
+    {
+      "Country": "Serbia",
+      "overall_summary": "Summary sentence about **Serbia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Serbia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Serbia** could go here"
+    },
+    {
+      "Country": "Slovakia",
+      "overall_summary": "Summary sentence about **Slovakia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Slovakia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Slovakia** could go here"
+    },
+    {
+      "Country": "Slovenia",
+      "overall_summary": "Summary sentence about **Slovenia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Slovenia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Slovenia** could go here"
+    },
+    {
+      "Country": "South Africa",
+      "overall_summary": "Summary sentence about **South Africa** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **South Africa** could go here",
+      "change_summary": "Sentence about additions and retirements and **South Africa** could go here"
+    },
+    {
+      "Country": "South Korea",
+      "overall_summary": "Summary sentence about **South Korea** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **South Korea** could go here",
+      "change_summary": "Sentence about additions and retirements and **South Korea** could go here"
+    },
+    {
+      "Country": "Spain",
+      "overall_summary": "Summary sentence about **Spain** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Spain** could go here",
+      "change_summary": "Sentence about additions and retirements and **Spain** could go here"
+    },
+    {
+      "Country": "Sri Lanka",
+      "overall_summary": "Summary sentence about **Sri Lanka** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Sri Lanka** could go here",
+      "change_summary": "Sentence about additions and retirements and **Sri Lanka** could go here"
+    },
+    {
+      "Country": "Sudan",
+      "overall_summary": "Summary sentence about **Sudan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Sudan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Sudan** could go here"
+    },
+    {
+      "Country": "Sweden",
+      "overall_summary": "Summary sentence about **Sweden** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Sweden** could go here",
+      "change_summary": "Sentence about additions and retirements and **Sweden** could go here"
+    },
+    {
+      "Country": "Syria",
+      "overall_summary": "Summary sentence about **Syria** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Syria** could go here",
+      "change_summary": "Sentence about additions and retirements and **Syria** could go here"
+    },
+    {
+      "Country": "Taiwan",
+      "overall_summary": "Summary sentence about **Taiwan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Taiwan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Taiwan** could go here"
+    },
+    {
+      "Country": "Tajikistan",
+      "overall_summary": "Summary sentence about **Tajikistan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Tajikistan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Tajikistan** could go here"
+    },
+    {
+      "Country": "Tanzania",
+      "overall_summary": "Summary sentence about **Tanzania** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Tanzania** could go here",
+      "change_summary": "Sentence about additions and retirements and **Tanzania** could go here"
+    },
+    {
+      "Country": "Thailand",
+      "overall_summary": "Summary sentence about **Thailand** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Thailand** could go here",
+      "change_summary": "Sentence about additions and retirements and **Thailand** could go here"
+    },
+    {
+      "Country": "Türkiye",
+      "overall_summary": "Summary sentence about **Türkiye** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Türkiye** could go here",
+      "change_summary": "Sentence about additions and retirements and **Türkiye** could go here"
+    },
+    {
+      "Country": "Ukraine",
+      "overall_summary": "Summary sentence about **Ukraine** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Ukraine** could go here",
+      "change_summary": "Sentence about additions and retirements and **Ukraine** could go here"
+    },
+    {
+      "Country": "United Arab Emirates",
+      "overall_summary": "Summary sentence about **United Arab Emirates** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **United Arab Emirates** could go here",
+      "change_summary": "Sentence about additions and retirements and **United Arab Emirates** could go here"
+    },
+    {
+      "Country": "United Kingdom",
+      "overall_summary": "Summary sentence about **United Kingdom** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **United Kingdom** could go here",
+      "change_summary": "Sentence about additions and retirements and **United Kingdom** could go here"
+    },
+    {
+      "Country": "United States",
+      "overall_summary": "Summary sentence about **United States** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **United States** could go here",
+      "change_summary": "Sentence about additions and retirements and **United States** could go here"
+    },
+    {
+      "Country": "Uzbekistan",
+      "overall_summary": "Summary sentence about **Uzbekistan** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Uzbekistan** could go here",
+      "change_summary": "Sentence about additions and retirements and **Uzbekistan** could go here"
+    },
+    {
+      "Country": "Venezuela",
+      "overall_summary": "Summary sentence about **Venezuela** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Venezuela** could go here",
+      "change_summary": "Sentence about additions and retirements and **Venezuela** could go here"
+    },
+    {
+      "Country": "Vietnam",
+      "overall_summary": "Summary sentence about **Vietnam** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Vietnam** could go here",
+      "change_summary": "Sentence about additions and retirements and **Vietnam** could go here"
+    },
+    {
+      "Country": "Zambia",
+      "overall_summary": "Summary sentence about **Zambia** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Zambia** could go here",
+      "change_summary": "Sentence about additions and retirements and **Zambia** could go here"
+    },
+    {
+      "Country": "Zimbabwe",
+      "overall_summary": "Summary sentence about **Zimbabwe** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **Zimbabwe** could go here",
+      "change_summary": "Sentence about additions and retirements and **Zimbabwe** could go here"
+    }  
+  ]  
 }

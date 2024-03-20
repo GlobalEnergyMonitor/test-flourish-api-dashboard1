@@ -1,54 +1,52 @@
 {
-    "16535555": {
-        "title": "How has coal power capacity changed status in past decade?",
-        "subtitle": "Coal-fired power capacity by status each year, in megawatts (MW)",
-        "x_axis": "Year",
-        "values": [
-            "operating", "construction", "permitted", "pre-permit", "announced", "mothballed", "shelved", "cancelled", "retired"
-        ],
-        "pop_up": null,
-        "dataset": "data_status",
-        "summary": "status_text",
-        "initial_state": "Global",
-        "filterable": true,
-        "filter_by": "Country"
-    },
-       
-    "16487492": {
-        "title": "How much coal power capacity has been added and retired each year since 2000?",
-        "subtitle": "Coal-fired power capacity added and retired each year, in megawatts (MW)",
-        "x_axis": "Year",
-        "values": [
-            "Net change", "Added", "Retired"
-        ],
-        "dataset": "data_change",
-        "summary": "change_text",
-        "initial_state": "Global",
-        "filterable": true,
-        "filter_by": "Country"
-    },
-
-     "16533187": {
+    "17172380": {
         "title": "How has coal power capacity changed since 2000?",
-        "subtitle": "Operating coal-fired power capacity by country, in gigawatts (GW)",
+        "subtitle": "Total operating coal-fired power capacity by year since 2000, in gigawatts (GW)",
         "x_axis": "Year",
-        "values": "Capacity",
-        "pop_up": null,
-        "summary": null,
-        "dataset": "data_cumulative",
+        "values": [
+            "Capacity"
+        ],
+        "dataset": "gcpt_jan_2024_cumulative_for_flourish",
+        "initial_state": "Global",
+        "summary": "cumulative_summary",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "17172823": {
+        "title": "How much coal power capacity has been added and retired?",
+        "subtitle": "Coal-fired power capacity added and retired each year since 2000, in gigawatts (GW)",
+        "x_axis": "Year",
+        "values": [
+                "Net change", "Added", "Retired"
+        ],
+        "dataset": "gcpt_jan_2024_added_retired_net_change_for_flourish",
+        "initial_state": "Global",
+        "summary": "change_summary",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "17173772": {
+        "title": "How has coal power capacity changed status in past decade?",
+        "subtitle": "Coal-fired power capacity by status each year, in gigawatts (GW)",
+        "x_axis": "Year",
+        "values": [
+            "Retired",	"Operating", "Mothballed",
+            "Construction",	"Permitted", "Pre-permit",
+            	"Announced", "Shelved", "Cancelled"
+        ],
+        "dataset": "gcpt_jan_2024_status_for_flourish",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
-     "16659337": {
-        "title": "What is the age breakdown of coal plants?",
-        "subtitle": "Coal-fired power capacity by age and type of coal plants, in megawatts (MW)",
-        "x_axis": "decade",
+    "17223802": {
+        "title": "How much coal power capacity has been added and retired?",
+        "subtitle": "Coal-fired power capacity added and retired each year since 2000, in gigawatts (GW)",
+        "x_axis": "Age group",
         "values": [
-            "CFB", "IGCC", "Subcritical", "Supercritical", "Ultra-supercritical", "Unknown"
+            "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
         ],
-        "pop_up": null,
-        "dataset": "data_age",
+        "dataset": "gcpt_jan_2024_plant_age_type_for_flourish",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"

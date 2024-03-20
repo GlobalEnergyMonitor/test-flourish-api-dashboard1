@@ -1,0 +1,974 @@
+﻿[
+  {
+    "Country": "United States",
+    "summary_3": "<span>{{127297.44}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{206942}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{400}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "United Kingdom",
+    "summary_3": "<span>{{31919}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{2738}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Canada",
+    "summary_3": "<span>{{13687}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{4877}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Germany",
+    "summary_3": "<span>{{11923}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{40745}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Spain",
+    "summary_3": "<span>{{10892}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{2909}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "France",
+    "summary_3": "<span>{{5895}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{2507}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Australia",
+    "summary_3": "<span>{{4851}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{22897}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1000}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Romania",
+    "summary_3": "<span>{{4780}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{2955}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Denmark",
+    "summary_3": "<span>{{3495}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{1560}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Russia",
+    "summary_3": "<span>{{2955}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{37328}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{3823}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Belgium",
+    "summary_3": "<span>{{2593}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Ukraine",
+    "summary_3": "<span>{{2346}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{21872}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Finland",
+    "summary_3": "<span>{{2254}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{1533}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Greece",
+    "summary_3": "<span>{{2063}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{2885}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Austria",
+    "summary_3": "<span>{{1993}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Portugal",
+    "summary_3": "<span>{{1978}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Italy",
+    "summary_3": "<span>{{1864}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{6806}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Czech Republic",
+    "summary_3": "<span>{{1320}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{7500}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Slovakia",
+    "summary_3": "<span>{{724}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{561}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Bulgaria",
+    "summary_3": "<span>{{516}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{5109}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Hungary",
+    "summary_3": "<span>{{515}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{1194}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Hong Kong",
+    "summary_3": "<span>{{500}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{6110}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "New Zealand",
+    "summary_3": "<span>{{500}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{500}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Sweden",
+    "summary_3": "<span>{{291}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Kosovo",
+    "summary_3": "<span>{{190}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{1290}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Netherlands",
+    "summary_3": "<span>{{165}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{3500}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Peru",
+    "summary_3": "<span>{{135}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Uzbekistan",
+    "summary_3": "<span>{{91}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{2493}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{600}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Israel",
+    "summary_3": "<span>{{25}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{4325}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Poland",
+    "summary_3": "<span>{{11}} MW</span><br>less coal than in 2000",
+    "summary_3_color": "#5f9e79",
+    "summary_1": "<span>{{29160}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{100}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Albania",
+    "summary_3": "<span>{{0}} MW</span><br>no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Belarus",
+    "summary_3": "<span>{{0}} MW</span><br>no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "C�te d'Ivoire",
+    "summary_3": "<span>{{0}} MW</span><br>no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Croatia",
+    "summary_3": "<span>{{0}} MW</span><br>the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{342}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Djibouti",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "DR Congo",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Egypt",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "El Salvador",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Eswatini",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{300}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Ethiopia",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Georgia",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Ghana",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Guadeloupe",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{64}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Guinea",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Iran",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{650}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Ireland",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{915}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Jamaica",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Kenya",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{64}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Latvia",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Malawi",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{400}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Moldova",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{1600}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Montenegro",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{225}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Mozambique",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1200}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Namibia",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{120}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Niger",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{200}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Nigeria",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{600}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "North Macedonia",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{824}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Oman",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Serbia",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{4467}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{350}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Sudan",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Tanzania",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{800}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "summary_3": "<span>{{0}} MW</span><br> the same coal power capacity as it did in 2000",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Venezuela",
+    "summary_3": "<span>{{0}} MW</span><br> no operating coal power",
+    "summary_3_color": "#4f408c",
+    "summary_1": "<span>{{0}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Syria",
+    "summary_3": "<span>{{60}} MW</span><br>more coal than in 2000",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{60}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Slovenia",
+    "summary_3": "<span>{{65}} MW</span><br>more coal than in 2001",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{1069}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Honduras",
+    "summary_3": "<span>{{105}} MW</span><br>more coal than in 2002",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{105}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "summary_3": "<span>{{105}} MW</span><br>more coal than in 2003",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{812}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{600}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Argentina",
+    "summary_3": "<span>{{120}} MW</span><br>more coal than in 2004",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{495}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{120}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Madagascar",
+    "summary_3": "<span>{{120}} MW</span><br>more coal than in 2005",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{120}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{30}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Mauritius",
+    "summary_3": "<span>{{125}} MW</span><br>more coal than in 2006",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{195}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Senegal",
+    "summary_3": "<span>{{155}} MW</span><br>more coal than in 2007",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{155}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Myanmar",
+    "summary_3": "<span>{{190}} MW</span><br>more coal than in 2008",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{190}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Brunei",
+    "summary_3": "<span>{{220}} MW</span><br>more coal than in 2009",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{220}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Mongolia",
+    "summary_3": "<span>{{260}} MW</span><br>more coal than in 2010",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{960}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1850}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "summary_3": "<span>{{300}} MW</span><br>more coal than in 2011",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{2090}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1450}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Panama",
+    "summary_3": "<span>{{306}} MW</span><br>more coal than in 2012",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{306}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Zambia",
+    "summary_3": "<span>{{330}} MW</span><br>more coal than in 2013",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{330}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{300}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Guatemala",
+    "summary_3": "<span>{{383}} MW</span><br>more coal than in 2014",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{522}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Zimbabwe",
+    "summary_3": "<span>{{385}} MW</span><br>more coal than in 2015",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{1335}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{5175}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Tajikistan",
+    "summary_3": "<span>{{400}} MW</span><br>more coal than in 2016",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{400}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Botswana",
+    "summary_3": "<span>{{600}} MW</span><br>more coal than in 2017",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{732}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{750}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Colombia",
+    "summary_3": "<span>{{607}} MW</span><br>more coal than in 2018",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{1646}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Mexico",
+    "summary_3": "<span>{{678}} MW</span><br>more coal than in 2019",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{5378}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "North Korea",
+    "summary_3": "<span>{{800}} MW</span><br>more coal than in 2020",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{3700}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Dominican Republic",
+    "summary_3": "<span>{{804}} MW</span><br>more coal than in 2021",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{1064}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Sri Lanka",
+    "summary_3": "<span>{{900}} MW</span><br>more coal than in 2022",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{900}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Cambodia",
+    "summary_3": "<span>{{1405}} MW</span><br>more coal than in 2023",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{1405}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1015}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Kazakhstan",
+    "summary_3": "<span>{{1579}} MW</span><br>more coal than in 2024",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{13523}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{4875}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Brazil",
+    "summary_3": "<span>{{1802}} MW</span><br>more coal than in 2025",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{3105}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1326}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Laos",
+    "summary_3": "<span>{{1878}} MW</span><br>more coal than in 2026",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{1878}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{7036}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Chile",
+    "summary_3": "<span>{{2345}} MW</span><br>more coal than in 2027",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{4323}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Morocco",
+    "summary_3": "<span>{{2784}} MW</span><br>more coal than in 2028",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{4257}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Bangladesh",
+    "summary_3": "<span>{{2855}} MW</span><br>more coal than in 2029",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{2855}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{11840}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Thailand",
+    "summary_3": "<span>{{2877}} MW</span><br>more coal than in 2030",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{6138}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{600}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Taiwan",
+    "summary_3": "<span>{{6477}} MW</span><br>more coal than in 2031",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{19048}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "South Africa",
+    "summary_3": "<span>{{7506}} MW</span><br>more coal than in 2032",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{45895}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{4555}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Pakistan",
+    "summary_3": "<span>{{7638}} MW</span><br>more coal than in 2033",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{7788}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{4741.5}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Philippines",
+    "summary_3": "<span>{{8068}} MW</span><br>more coal than in 2034",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{12136}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{3125}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Malaysia",
+    "summary_3": "<span>{{11580}} MW</span><br>more coal than in 2035",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{13280}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{0}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "T�rkiye",
+    "summary_3": "<span>{{14263}} MW</span><br>more coal than in 2036",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{20854}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{5453}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Japan",
+    "summary_3": "<span>{{23431}} MW</span><br>more coal than in 2037",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{55239}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{1150}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "South Korea",
+    "summary_3": "<span>{{24828}} MW</span><br>more coal than in 2038",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{39094}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{3140}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Vietnam",
+    "summary_3": "<span>{{25292}} MW</span><br>more coal than in 2039",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{25837}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{9325}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Indonesia",
+    "summary_3": "<span>{{36937}} MW</span><br>more coal than in 2040",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{45172}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{19249}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "India",
+    "summary_3": "<span>{{175072}} MW</span><br>more coal than in 2041",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{237415}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{67573}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "China",
+    "summary_3": "<span>{{913605}} MW</span><br>more coal than in 2042",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{1103125}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{391699.8}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  },
+  {
+    "Country": "Global",
+    "summary_3": "<span>{{1042472}} MW</span><br>more coal than in 2043",
+    "summary_3_color": "#bf532c",
+    "summary_1": "<span>{{2114004}} MW</span><br>operating coal power capacity",
+    "summary_1_color": "#bf532c",
+    "summary_2": "<span>{{557465.3}} MW</span><br>coal power under development",
+    "summary_2_color": "#f27d16"
+  }
+]
