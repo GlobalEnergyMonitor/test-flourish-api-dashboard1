@@ -60,6 +60,66 @@
     "Unknown": "29.0847"
   },
   {
+    "Country": "Albania",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Albania",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Albania",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Albania",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Albania",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Albania",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Argentina",
     "Age group": "40-49 years",
     "Ultra-supercritical": "0",
@@ -130,6 +190,66 @@
     "Unknown": "0"
   },
   {
+    "Country": "Austria",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Austria",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Austria",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Austria",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Austria",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Austria",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Bangladesh",
     "Age group": "10-19 years",
     "Ultra-supercritical": "0",
@@ -145,6 +265,126 @@
     "Ultra-supercritical": "1.92",
     "Supercritical": "2.33",
     "Subcritical": "0.275",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belarus",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belarus",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belarus",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belarus",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belarus",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belarus",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belgium",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belgium",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belgium",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belgium",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belgium",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Belgium",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -610,6 +850,126 @@
     "Unknown": "0"
   },
   {
+    "Country": "Côte d'Ivoire",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "DR Congo",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "DR Congo",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "DR Congo",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "DR Congo",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "DR Congo",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "DR Congo",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Denmark",
     "Age group": "30-39 years",
     "Ultra-supercritical": "0",
@@ -623,6 +983,66 @@
     "Country": "Denmark",
     "Age group": "20-29 years",
     "Ultra-supercritical": "0.411",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Djibouti",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Djibouti",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Djibouti",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Djibouti",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Djibouti",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Djibouti",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0",
     "CFB": "0",
@@ -655,6 +1075,246 @@
     "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0.752",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Egypt",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Egypt",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Egypt",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Egypt",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Egypt",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Egypt",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "El Salvador",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "El Salvador",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "El Salvador",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "El Salvador",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "El Salvador",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "El Salvador",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Eswatini",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Eswatini",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Eswatini",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Eswatini",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Eswatini",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Eswatini",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ethiopia",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ethiopia",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ethiopia",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ethiopia",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ethiopia",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ethiopia",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -730,6 +1390,66 @@
     "Unknown": "0.104"
   },
   {
+    "Country": "Georgia",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Georgia",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Georgia",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Georgia",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Georgia",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Georgia",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Germany",
     "Age group": "50+ years",
     "Ultra-supercritical": "0",
@@ -783,6 +1503,66 @@
     "Country": "Germany",
     "Age group": "0-9 years",
     "Ultra-supercritical": "3.752",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ghana",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ghana",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ghana",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ghana",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ghana",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Ghana",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0",
     "CFB": "0",
@@ -845,6 +1625,66 @@
     "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0.3",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Guinea",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Guinea",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Guinea",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Guinea",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Guinea",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Guinea",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -1000,6 +1840,66 @@
     "Unknown": "8.204"
   },
   {
+    "Country": "Iran",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Iran",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Iran",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Iran",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Iran",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Iran",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Ireland",
     "Age group": "30-39 years",
     "Ultra-supercritical": "0",
@@ -1065,6 +1965,66 @@
     "Ultra-supercritical": "1.98",
     "Supercritical": "0",
     "Subcritical": "0.35",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Jamaica",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Jamaica",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Jamaica",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Jamaica",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Jamaica",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Jamaica",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -1190,6 +2150,66 @@
     "Unknown": "0"
   },
   {
+    "Country": "Kenya",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Kenya",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Kenya",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Kenya",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Kenya",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Kenya",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Kosovo",
     "Age group": "50+ years",
     "Ultra-supercritical": "0",
@@ -1270,11 +2290,131 @@
     "Unknown": "0"
   },
   {
+    "Country": "Latvia",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Latvia",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Latvia",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Latvia",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Latvia",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Latvia",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Madagascar",
     "Age group": "10-19 years",
     "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0.12",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Malawi",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Malawi",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Malawi",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Malawi",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Malawi",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Malawi",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -1380,6 +2520,66 @@
     "Unknown": "0"
   },
   {
+    "Country": "Moldova",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Moldova",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Moldova",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Moldova",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Moldova",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Moldova",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Mongolia",
     "Age group": "40-49 years",
     "Ultra-supercritical": "0",
@@ -1460,6 +2660,66 @@
     "Unknown": "0"
   },
   {
+    "Country": "Mozambique",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Mozambique",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Mozambique",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Mozambique",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Mozambique",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Mozambique",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Myanmar",
     "Age group": "10-19 years",
     "Ultra-supercritical": "0",
@@ -1515,6 +2775,66 @@
     "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0.5",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Niger",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Niger",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Niger",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Niger",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Niger",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Niger",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -1590,6 +2910,66 @@
     "Unknown": "0"
   },
   {
+    "Country": "Oman",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Oman",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Oman",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Oman",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Oman",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Oman",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Pakistan",
     "Age group": "0-9 years",
     "Ultra-supercritical": "0.66",
@@ -1605,6 +2985,126 @@
     "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0.306",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Peru",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Peru",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Peru",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Peru",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Peru",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Peru",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -1718,6 +3218,66 @@
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0.075"
+  },
+  {
+    "Country": "Portugal",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Portugal",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Portugal",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Portugal",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Portugal",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Portugal",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
   },
   {
     "Country": "Romania",
@@ -2080,6 +3640,186 @@
     "Unknown": "0"
   },
   {
+    "Country": "Sudan",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sudan",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sudan",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sudan",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sudan",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sudan",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sweden",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sweden",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sweden",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sweden",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sweden",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Sweden",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Syria",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Syria",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Syria",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Syria",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Syria",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Syria",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "Taiwan",
     "Age group": "40-49 years",
     "Ultra-supercritical": "0",
@@ -2135,6 +3875,66 @@
     "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0.4",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Tanzania",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Tanzania",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Tanzania",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Tanzania",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Tanzania",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Tanzania",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"
@@ -2270,6 +4070,66 @@
     "Unknown": "0"
   },
   {
+    "Country": "United Arab Emirates",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
     "Country": "United Kingdom",
     "Age group": "50+ years",
     "Ultra-supercritical": "0",
@@ -2375,6 +4235,66 @@
     "Ultra-supercritical": "0",
     "Supercritical": "0",
     "Subcritical": "0.15",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Venezuela",
+    "Age group": "0-9 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Venezuela",
+    "Age group": "10-19 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Venezuela",
+    "Age group": "20-29 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Venezuela",
+    "Age group": "30-39 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Venezuela",
+    "Age group": "40-49 years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
+    "CFB": "0",
+    "IGCC": "0",
+    "Unknown": "0"
+  },
+  {
+    "Country": "Venezuela",
+    "Age group": "50+ years",
+    "Ultra-supercritical": "0",
+    "Supercritical": "0",
+    "Subcritical": "0",
     "CFB": "0",
     "IGCC": "0",
     "Unknown": "0"

@@ -5,7 +5,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{578.1633}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{241.192}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{241.192}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -14,7 +14,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -23,7 +23,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.12}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.12}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.12}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -32,7 +32,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.945}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-4.834}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-4.834}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -41,7 +41,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.763}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.763}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -50,7 +50,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{11.12}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{4.525}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{4.525}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -59,7 +59,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -68,7 +68,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.56}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.56}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -77,7 +77,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{1.35}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.3}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.3}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -86,7 +86,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -95,7 +95,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{1.326}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.173}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.173}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -104,7 +104,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.22}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.22}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -113,7 +113,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.053}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.053}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -122,7 +122,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.315}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{1.035}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{1.035}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -131,7 +131,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-5.253}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-5.253}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -140,7 +140,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.488}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.488}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -149,7 +149,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{407.6968}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{262.63}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{262.63}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -158,7 +158,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.443}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.443}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -167,7 +167,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -176,7 +176,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.927}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.927}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -185,7 +185,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -194,7 +194,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -203,7 +203,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-2.071}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-2.071}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -212,7 +212,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -221,7 +221,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.752}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.752}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -230,7 +230,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -239,7 +239,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -248,7 +248,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.3}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -257,7 +257,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -266,7 +266,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-1.164}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-1.164}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -275,7 +275,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-1.23}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-1.23}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -284,7 +284,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -293,7 +293,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-11.978}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-11.978}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -302,7 +302,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -311,7 +311,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-2.04}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-2.04}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -320,7 +320,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.038}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.038}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -329,7 +329,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.217}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.217}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -338,7 +338,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -347,7 +347,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.035}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.035}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -356,7 +356,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.5}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.5}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -365,7 +365,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -374,7 +374,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{76.743}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{48.065}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{48.065}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -383,7 +383,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{15.655}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{26.16}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{26.16}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -392,7 +392,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.65}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -401,7 +401,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -410,7 +410,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.575}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.575}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -419,7 +419,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-3.521}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-3.521}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -428,7 +428,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -437,7 +437,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.5}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{10.207}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{10.207}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -446,7 +446,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{6.035}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.295}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.295}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -455,7 +455,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.064}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -464,7 +464,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -473,7 +473,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.105}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.105}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -482,7 +482,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{6.036}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.626}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.626}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -491,7 +491,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -500,7 +500,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.03}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -509,7 +509,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.9}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -518,7 +518,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{4.6}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{4.6}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -527,7 +527,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -536,7 +536,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -545,7 +545,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -554,7 +554,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{1.9}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.07}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.07}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -563,7 +563,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -572,7 +572,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{1.736}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{1.736}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -581,7 +581,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{1.2}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -590,7 +590,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.07}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.07}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -599,7 +599,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -608,7 +608,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.791}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.791}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -617,7 +617,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -626,7 +626,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.2}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -635,7 +635,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -644,7 +644,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.8}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.8}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -653,7 +653,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -662,7 +662,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -671,7 +671,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{4.7415}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{7.638}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{7.638}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -680,7 +680,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.186}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.186}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -689,7 +689,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -698,7 +698,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.135}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.135}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -707,7 +707,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{3.125}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{5.746}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{5.746}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -716,7 +716,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.1}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.188}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.188}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -725,7 +725,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-1.978}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-1.978}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -734,7 +734,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-3.11}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-3.11}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -743,7 +743,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{4.665}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-5.291}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-5.291}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -752,7 +752,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.125}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.125}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -761,7 +761,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.35}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -770,7 +770,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.307}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.307}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -779,7 +779,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.4}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.4}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -788,7 +788,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{4.555}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{5.995}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{5.995}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -797,7 +797,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{2.1}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{12.836}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{12.836}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -806,7 +806,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-8.191}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-8.191}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -815,7 +815,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -824,7 +824,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -833,7 +833,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.141}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.141}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -842,7 +842,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -851,7 +851,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{3.327}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{3.327}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -860,7 +860,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.3}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.3}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -869,7 +869,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.8}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -878,7 +878,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.355}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.355}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -887,7 +887,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{4.953}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{5.57}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{5.57}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -896,7 +896,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-2.141}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-2.141}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -905,7 +905,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -914,7 +914,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-18.587}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-18.587}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -923,7 +923,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.8}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-101.429}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-101.429}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -932,7 +932,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.6}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{-0.091}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{-0.091}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#3F6950"
   },
   {
@@ -941,7 +941,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>{{0}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#A8A8A8"
   },
   {
@@ -950,7 +950,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{7.893}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{14.26}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{14.26}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -959,7 +959,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{0.3}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.3}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.3}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   },
   {
@@ -968,7 +968,7 @@
     "summary_1_color": "#bf532c",
     "summary_2": "<span>{{7.095}} GW</span><br>coal power under development",
     "summary_2_color": "#f27d16",
-    "summary_3": "<span>{{0.385}} GW</span><br>change in operating coal power from 2015",
+    "summary_3": "<span>+{{0.385}} GW</span><br>operating coal power from 2015",
     "summary_3_color": "#761200"
   }
 ]

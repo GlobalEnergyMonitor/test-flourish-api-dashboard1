@@ -1,6 +1,6 @@
 {
     "17172380": {
-        "title": "How has coal power capacity changed since 2000?",
+        "title": "Total coal power capacity since 2000",
         "subtitle": "Total operating coal-fired power capacity by year since 2000, in gigawatts (GW)",
         "x_axis": "Year",
         "values": [
@@ -13,7 +13,7 @@
         "filter_by": "Country"
     },
     "17172823": {
-        "title": "How much coal power capacity has been added and retired?",
+        "title": "Coal power capacity additions and retirements",
         "subtitle": "Coal-fired power capacity added and retired each year since 2000, in gigawatts (GW)",
         "x_axis": "Year",
         "values": [
@@ -26,7 +26,7 @@
         "filter_by": "Country"
     },
     "17173772": {
-        "title": "How has coal power capacity changed status in past decade?",
+        "title": "Coal power capacity status changes since 2015",
         "subtitle": "Coal-fired power capacity by status each year, in gigawatts (GW)",
         "x_axis": "Year",
         "values": [
@@ -40,8 +40,8 @@
         "filter_by": "Country"
     },
     "17223802": {
-        "title": "How much coal power capacity has been added and retired?",
-        "subtitle": "Coal-fired power capacity added and retired each year since 2000, in gigawatts (GW)",
+        "title": "Age and technology of operating coal plants",
+        "subtitle": "Age of operating coal plants by plant type, in gigawatts (GW)",
         "x_axis": "Age group",
         "values": [
             "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
