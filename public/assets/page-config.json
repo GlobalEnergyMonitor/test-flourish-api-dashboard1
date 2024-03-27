@@ -10,7 +10,7 @@
     "input_default": "Global",
     "overall_summary": true,
     "ticker_text_font-size": "2rem",
-    "ticker_data": "data_ticker_for_flourish",
+    "ticker_data": "data_ticker_with_country_groupings_for_flourish",
     "tickers": [{
         "id": "summary_1",
         "decimal_places": 0,

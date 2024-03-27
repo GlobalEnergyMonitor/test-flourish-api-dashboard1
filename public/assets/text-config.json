@@ -11,6 +11,30 @@
       "change_summary": "Sentence about additions and retirements and **Global** could go here"
     },
     {
+      "Country": "EU27",
+      "overall_summary": "Summary sentence about **EU27** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **EU27** could go here",
+      "change_summary": "Sentence about additions and retirements and **EU27** could go here"
+    },
+    {
+      "Country": "G7",
+      "overall_summary": "Summary sentence about **G7** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **G7** could go here",
+      "change_summary": "Sentence about additions and retirements and **G7** could go here"
+    },
+    {
+      "Country": "G20",
+      "overall_summary": "Summary sentence about **G20** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **G20** could go here",
+      "change_summary": "Sentence about additions and retirements and **G20** could go here"
+    },
+    {
+      "Country": "OECD",
+      "overall_summary": "Summary sentence about **OECD** and coal capacity",
+      "cumulative_summary": "Sentence about cumulative capacity and **OECD** could go here",
+      "change_summary": "Sentence about additions and retirements and **OECD** could go here"
+    },
+    {
       "Country": "Albania",
       "overall_summary": "Summary sentence about **Albania** and coal capacity",
       "cumulative_summary": "Sentence about cumulative capacity and **Albania** could go here",

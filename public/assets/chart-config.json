@@ -6,7 +6,7 @@
         "values": [
             "Capacity"
         ],
-        "dataset": "gcpt_jan_2024_cumulative_for_flourish",
+        "dataset": "gcpt_jan_2024_cumulative_with_country_groupings_for_flourish",
         "initial_state": "Global",
         "summary": "cumulative_summary",
         "filterable": true,
@@ -19,7 +19,7 @@
         "values": [
                 "Net change", "Added", "Retired"
         ],
-        "dataset": "gcpt_jan_2024_added_retired_net_change_for_flourish",
+        "dataset": "gcpt_jan_2024_added_retired_net_change_with_country_groupings_for_flourish",
         "initial_state": "Global",
         "summary": "change_summary",
         "filterable": true,
@@ -46,7 +46,7 @@
         "values": [
             "Ultra-supercritical",	"Supercritical",	"Subcritical",	"CFB",	"IGCC",	"Unknown"
         ],
-        "dataset": "gcpt_jan_2024_plant_age_type_for_flourish",
+        "dataset": "gcpt_jan_2024_plant_age_type_with_country_groupings_for_flourish",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
