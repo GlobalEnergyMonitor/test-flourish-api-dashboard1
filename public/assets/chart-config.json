@@ -6,7 +6,7 @@
         "values": [
             "Capacity"
         ],
-        "dataset": "gcpt_jan_2024_cumulative_with_country_groupings_for_flourish",
+        "dataset": "gcpt_jan_2024_cumulative_with_country_groupings_for_flourish_NEW",
         "initial_state": "Global",
         "summary": "cumulative_summary",
         "filterable": true,
