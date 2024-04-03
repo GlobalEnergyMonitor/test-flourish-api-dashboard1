@@ -13,7 +13,7 @@
     "ticker_data": "data_ticker_with_country_groupings_for_flourish",
     "tickers": [{
         "id": "summary_1",
-        "decimal_places": 0,
+        "decimal_places": 2,
         "style": {
             "color": "#BF532C",
             "font-weight": "bold",
@@ -22,7 +22,7 @@
     },
     {
         "id": "summary_2",
-        "decimal_places": 1,
+        "decimal_places": 2,
         "style": {
             "color": "#3f6950",
             "font-weight": "bold",

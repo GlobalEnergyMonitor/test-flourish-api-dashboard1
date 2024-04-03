@@ -1,14 +1,13 @@
 {
     "17172380": {
-        "title": "Total coal power capacity since 2000",
-        "subtitle": "Total operating coal-fired power capacity by year since 2000, in gigawatts (GW)",
+        "title": "Cumulative coal power capacity since 2000",
+        "subtitle": "Total operating coal-fired power capacity by year, in gigawatts (GW)",
         "x_axis": "Year",
         "values": [
             "Capacity"
         ],
         "dataset": "gcpt_jan_2024_cumulative_with_country_groupings_for_flourish_NEW",
         "initial_state": "Global",
-        "summary": "cumulative_summary",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -21,7 +20,6 @@
         ],
         "dataset": "gcpt_jan_2024_added_retired_net_change_with_country_groupings_for_flourish",
         "initial_state": "Global",
-        "summary": "change_summary",
         "filterable": true,
         "filter_by": "Country"
     },
